@@ -1,0 +1,163 @@
+BasicInfo:
+  FirstName: Han
+  LastName: Xiao
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +358 442483528
+    - Icon: fas fa-envelope
+      Info: xiaohan2012@gmail.com
+    - Icon: fab fa-github
+      Info: <a class="contact__link" href="https://github.com/xiaohan2012" target="_blank">github.com/xiaohan2012</a>
+    - Icon: fas fa-graduation-cap
+      Info: <a class="contact__link" href="https://scholar.google.com/citations?user=lUh4VVUAAAAJ&hl=en" target="_blank">Google Scholar</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Helsinki, Finland
+
+Profile:
+  # Machine learning and data science professional with 9+ years of experience, seeking opportunities to drive innovation and create meaningful impacts.
+  Machine learning and data science professional with 9+ years of experience, seeking opportunities to build safe and responsible AI.
+  Expertise in interpretable ML, deep learning systems, and performance engineering with 15+ publications in top-tier venues. # 
+
+Experience:
+  - Employer: Cambri
+    Place: Helsinki, Finland
+    Positions:
+      - Title: Senior Data Scientist
+        Date: May, 2025 - Present
+        Summary: Building AI-powered concept testing tools to revolutionize market research
+        Details:
+          - Leading development of LaunchAI, a ML platform for automated concept validation
+          - Implementing LLM agents to automate the full cycle of data preparation, model development, and deployment
+          - Designing interpretable ML algorithms that provide actionable insights to our clients
+        Badges: ['Statistical modeling', 'LLM Agents', 'MLOps', 'Interpretability']
+  - Employer: The Upright Project
+    Place: Helsinki, Finland
+    Positions:
+      - Title: Senior Data Scientist
+        Date: May, 2024 - Apr, 2025
+        Summary: Developing interpretable ML solutions for corporate-level impact quantification
+        Details:
+          - Built Bayesian regression models for greenhouse gas emission estimation, reducing prediction error by 15-25%
+          - Redesigned algorithms for enhanced interpretability with production deployment
+          - Developed LLM agents for automated extraction of sustainability metrics from company reports
+        Badges: ['Bayesian modeling', 'Interpretability', 'LLM agents', 'Sustainability']
+  - Employer: Unity Technologies
+    Place: Helsinki, Finland
+    Positions:
+      - Title: Machine Learning Research Engineer
+        Date: Feb, 2022 - Apr, 2024
+        Details:
+          - Built privacy-constrained ML models for conversion prediction using TensorFlow and multi-GPU training
+          - Redesigned terabyte-scale data pipeline achieving 25% performance improvement and $1.7M annual cost savings
+          - Led software architecture overhaul reducing code complexity by 50x and improving test coverage from 46% to 97%
+          - Implemented ML explainability functionality using SHAP values
+        Badges: ['Data pipeline optimization', 'Multi-GPU training', 'ML explainability']
+  - Employer: Facebook
+    Place: London, UK
+    Positions:
+      - Title: Core Data Science Intern
+        Date: Jun - Aug, 2018
+        Details:
+          - Developed prototype for detecting inauthentic behaviors on Facebook graph
+          - Coordinated cross-team collaboration to push project forward
+        Badges: ['Graph Mining', 'Anomaly Detection']
+
+Research:
+  - Employer: Aalto University
+    Place: Helsinki, Finland
+    Positions:
+      - Title: Postdoctoral Researcher
+        Date: 2021 - 2022
+        Details:
+          - Designed interpretable multi-label rule set models with theoretically-sound algorithms for model conciseness
+          - Developed efficient branch-and-bound algorithm achieving 1000x speedup over standard tools using Numba and Ray
+          - Published research at top conferences (KDD, ICDM) on interpretable machine learning
+        Badges: ['Interpretibility', 'Algorithm Design', 'Performance Engineering']  
+  - Employer: Aalto University
+    Place: Helsinki, Finland
+    Positions:
+      - Title: Doctoral Researcher
+        Date: 2016 - 2020
+        Details:
+          - Designed Steiner tree-based algorithms for misinformation propagation reconstruction with approximation guarantees
+          - Created scalable algorithms for detecting polarized communities on social networks with millions of nodes
+          - Developed fair clustering algorithms and large-scale multi-label learning systems
+          - Published 10+ papers in top venues (WebConf, SDM, ICDM) on social good applications
+        Badges: ['Graph Algorithms', 'Social Network Analysis', 'Algorithmic Fairness']  
+Education:
+  - Course: Ph.D. in Computer Science
+    Place: Aalto University, Finland
+    Date: 2016 - 2020
+    Details: "Thesis: Data science for social good. Topics: approximation algorithms, combinatorics, convex optimization, misinformation, online polarization, algorithmic fairness. Advisor: Prof. Aristides Gionis"
+  - Course: M.Sc. in Computer Science
+    Place: Helsinki University, Finland
+    Date: 2013 - 2016
+    Details: "Thesis: Event detection in interaction networks"
+  - Course: B.Sc. in Computer Science
+    Place: Wuhan University of Technology, China
+    Date: 2008 - 2012
+    Details: "Thesis: A Bayes spam filter for the Chinese language"
+
+# References:
+#   Available upon request
+
+
+Skills:
+  - Family: Programming Languages
+    Items:
+      - Python
+      - Cython
+      - C/C++
+      - TypeScript
+  - Family: System Programming
+    Items:
+      - SIMD
+      - OpenMP
+      - CUDA
+  - Family: Machine Learning
+    Items:
+      - PyTorch
+      - TensorFlow
+      - PyMC
+      - XGBoost
+  - Family: Distributed Computing
+    Items:
+      - Ray
+      - PySpark
+  - Family: MLOps
+    Items:
+      - Kubeflow
+      - MLflow
+      - Metaflow
+      - Ray Tune
+      - Optuna
+  - Family: Developer Tools
+    Items:
+      - Claude Code
+      - Emacs      
+      - Git
+      - Docker
+
+Languages:
+  - Name: English
+    Level: Fluent
+  - Name: Chinese
+    Level: Native
+  - Name: Finnish
+    Level: Basic
+
+# Diplomas:
+#   - Winner of HumAInity Open Innovation Challenge (Accenture, 2019)
+#   - Student travel grant (ICDM, 2018)
+#   - 3rd place in intelligent building track (Hack Junction, 2016)
+#   - 1st place in fitness track (Aalto Data Science Hackathon, 2014)
+#   - 2nd prize in national software talent contest (Beijing, 2012)
+
+# Interests:
+#   - Guitar playing
+#   - Cycling
+#   - Workout
+#   - Hiking
+#   - Algorithm design
+#   - Data visualization

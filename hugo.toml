@@ -1,0 +1,30 @@
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+enableEmoji = true
+
+theme = "almeida-cv"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+baseURL = "https://example.com/"
+title = "Han Xiao - CV"
+#googleAnalytics = ""
+
+[params]
+enableMetaTags = true
+colorLight = "#fff"
+colorDark = "#666"
+colorPageBackground = "#ddd"
+colorPrimary = "#3182bd" # "#e3bfb8"
+colorSecondary = "#aaa"
+colorIconPrimary = "#fff"
+colorIconBackground = "#3182bd"  # "#e3bfb8"
+colorRightColumnBackground = "#f5f5f5"
+colorRightColumnHeadingText = "#666"
+colorRightColumnBodyText = "#666"
+colorRightColumnIconPrimary = "#fff"
+colorRightColumnIconBackground = "#3182bd" # "#e3bfb8"
+pages = 2
+# Set this param to 'true' to swap the bar positions
+swapColumns = false
+footerNote = "2025 © by Han Xiao"
