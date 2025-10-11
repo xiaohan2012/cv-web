@@ -8,14 +8,14 @@ BasicInfo:
     - Icon: fas fa-envelope
       Info: xiaohan2012@gmail.com
     - Icon: fab fa-github
-      Info: <a class="contact__link" href="https://github.com/xiaohan2012" target="_blank">github.com/xiaohan2012</a>
+      Info: <a class="contact__link" href="https://github.com/xiaohan2012" target="_blank">github.com/xiaohan2012 <i class='fas fa-link'></i></a>
     - Icon: fas fa-graduation-cap
-      Info: <a class="contact__link" href="https://scholar.google.com/citations?user=lUh4VVUAAAAJ&hl=en" target="_blank">Google Scholar</a>
+      Info: <a class="contact__link" href="https://scholar.google.com/citations?user=lUh4VVUAAAAJ&hl=en" target="_blank">Google Scholar <i class='fas fa-link'></i></a>
     - Icon: fas fa-map-marker-alt
       Info: Helsinki, Finland
 
 Profile:
-  Summary: ML and software engineering professional with 9+ years of experience, seeking opportunities to build safe and responsible AI ⚖️ 🛡️️.
+  Summary: ML and software engineering professional with 9+ years of experience, seeking opportunities to build <b>safe and responsible AI</b> ⚖️ 🛡️️.
   Details:
     - Expertise in interpretable ML, ML systems, and system programming.
     - 6+ years of research in data mining and ML algorithms, with 15+ papers (KDD, WebConf).
@@ -81,8 +81,8 @@ Research:
         Date: Nov, 2020 - Jan, 2022
         Summary: Designing and engineering interpretable rule-based learning algorithms 🧩 🔍
         Details:
-          - Developed interpretable rule set models with theoretical guarantees [<a class='paper__link' href='https://arxiv.org/abs/2210.01533'>ICDM 22'</a>]
-          - Created efficient model exploration algorithms, achieving 1000x speedup over Google OR-tools [<a class='paper__link' href='https://arxiv.org/pdf/2406.03059'>KDD 24'</a>]
+          - Developed interpretable rule set models with theoretical guarantees [<a class='paper__link' href='https://arxiv.org/abs/2210.01533'>ICDM 22' <i class='fas fa-link'></i></a>]
+          - Created efficient model exploration algorithms, achieving 1000x speedup over Google OR-tools [<a class='paper__link' href='https://arxiv.org/pdf/2406.03059'>KDD 24' <i class='fas fa-link'></i></a>]
         Badges: ['Interpretable ML', 'Performance engineering']  
   - Employer: Aalto University
     Place: Helsinki, Finland
@@ -90,10 +90,10 @@ Research:
       - Title: Doctoral Researcher
         Date: Sep, 2016 - Oct, 2020
         Details:
-          - Designed graph-mining algorithms for model misinformation propagation process in social networks [<a class='paper__link' href='https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.75'>SDM 18'</a>, <a class='paper__link' href='https://arxiv.org/pdf/1809.05812'>ICDM 19'</a>]
-          - Created scalable algorithms for detecting polarized communities on social networks with millions of nodes [<a class='paper__link' href='https://arxiv.org/pdf/2001.09410'>WebConf 20'</a>]
-          - Studied fairness algorithms for clustering problems [<a class='paper__link' href='https://drive.google.com/file/d/1UAci0onLBbDjxpl8qiyhM31JR5x9oaxR/view?usp=sharing'>manuscript</a>]
-          - Side project -- large-scale multi-label learning [<a class='paper__link' href='https://arxiv.org/abs/1904.08249'>Machine Learning 20'</a>]
+          - Designed graph-mining algorithms for model misinformation propagation process in social networks [<a class='paper__link' href='https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.75'>SDM 18' <i class='fas fa-link'></i></a>, <a class='paper__link' href='https://arxiv.org/pdf/1809.05812'>ICDM 19' <i class='fas fa-link'></i></a>]
+          - Created scalable algorithms for detecting polarized communities on social networks with millions of nodes [<a class='paper__link' href='https://arxiv.org/pdf/2001.09410'>WebConf 20' <i class='fas fa-link'></i></a>]
+          - Studied fairness algorithms for clustering problems [<a class='paper__link' href='https://drive.google.com/file/d/1UAci0onLBbDjxpl8qiyhM31JR5x9oaxR/view?usp=sharing'>manuscript <i class='fas fa-link'></i></a>]
+          - Side project -- large-scale multi-label learning [<a class='paper__link' href='https://arxiv.org/abs/1904.08249'>Machine Learning 20' <i class='fas fa-link'></i></a>]
         Badges: ['Social network analysis', 'Combinatorial optimization', 'Convex optimization', 'Algorithmic fairness', 'Online polarization', 'Misinformation']  
 Education:
   - Course: Ph.D. in Computer Science
