@@ -12,9 +12,9 @@
         text-align: center;
         transition: all 0.3s cubic-bezier($cubic);
 
-        &:hover {
-            width: 110%;
-        }
+        // &:hover {
+        //     width: 110%;
+        // }
     }
 
     &__img {
@@ -23,8 +23,8 @@
         transition: all 0.3s cubic-bezier($cubic);
         @include all-center;
 
-        &:hover {
-            width: 105%;
-        }
+        // &:hover {
+        //     width: 105%;
+        // }
     }
 }
