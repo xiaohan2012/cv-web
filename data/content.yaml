@@ -25,12 +25,12 @@ Experience:
     Positions:
       - Title: Senior Data Scientist
         Date: May, 2025 - Present
-        Summary: Building AI-powered concept testing tools to revolutionize market research
+        Summary: Building ML-powered concept testing tools to revolutionize market research
         Details:
           - Leading development of LaunchAI, a ML platform for automated concept validation
           - Implementing LLM agents to automate the full cycle of data preparation, model development, and deployment
           - Designing interpretable ML algorithms that provide actionable insights to our clients
-        Badges: ['Statistical modeling', 'LLM Agents', 'MLOps', 'Interpretability']
+        Badges: ['Statistical modeling', 'LLM agents', 'MLOps', 'Interpretability']
   - Employer: The Upright Project
     Place: Helsinki, Finland
     Positions:
@@ -47,57 +47,66 @@ Experience:
     Positions:
       - Title: Machine Learning Research Engineer
         Date: Feb, 2022 - Apr, 2024
+        Summary: Building scalable ML systems for advertising optimization and data infrastructure
         Details:
           - Built privacy-constrained ML models for conversion prediction using TensorFlow and multi-GPU training
           - Redesigned terabyte-scale data pipeline achieving 25% performance improvement and $1.7M annual cost savings
           - Led software architecture overhaul reducing code complexity by 50x and improving test coverage from 46% to 97%
-          - Implemented ML explainability functionality using SHAP values
-        Badges: ['Data pipeline optimization', 'Multi-GPU training', 'ML explainability']
+          - Implemented ML explainability tools using SHAP
+        Badges: ['Neural nets', 'Pipeline optimization', 'Multi-GPU training', 'MLOps', 'ML explainability']
   - Employer: Facebook
     Place: London, UK
     Positions:
       - Title: Core Data Science Intern
         Date: Jun - Aug, 2018
-        Details:
-          - Developed prototype for detecting inauthentic behaviors on Facebook graph
-          - Coordinated cross-team collaboration to push project forward
-        Badges: ['Graph Mining', 'Anomaly Detection']
+        Summary: Developing algorithmic prototype for inauthentic behaviors detection on Facebook graph
+        Badges: ['Social network analysis', 'Anomaly detection', 'Online integrity']
 
 Research:
+  - Employer: Fudan University
+    Place: Remote
+    Positions:
+      - Title: Researcher (part-time)
+        Date: Oct, 2024 - Present
+        Summary: Developing ML system for spatial transcriptomics analysis
+        Details:
+          - Developing GNN architectures to model spatial gene expression patterns
+          - Implementing distributed training pipelines for large-scale experimentation
+        Badges: ['Graph neural nets', 'PyTorch', 'Bioinformatics', 'Distributed computing']
   - Employer: Aalto University
     Place: Helsinki, Finland
     Positions:
       - Title: Postdoctoral Researcher
-        Date: 2021 - 2022
+        Date: Nov, 2020 - Jan, 2022
+        Summary: Designing and engineering interpretable rule-based learning algorithms
         Details:
-          - Designed interpretable multi-label rule set models with theoretically-sound algorithms for model conciseness
-          - Developed efficient branch-and-bound algorithm achieving 1000x speedup over standard tools using Numba and Ray
-          - Published research at top conferences (KDD, ICDM) on interpretable machine learning
-        Badges: ['Interpretibility', 'Algorithm Design', 'Performance Engineering']  
+          - Developed interpretable rule set models with theoretical guarantees [<a class='paper__link' href='https://arxiv.org/abs/2210.01533'>ICDM 22'</a>]
+          - Created efficient model exploration algorithms, achieving 1000x speedup over Google OR-tools [<a class='paper__link' href='https://arxiv.org/pdf/2406.03059'>KDD 24'</a>]
+        Badges: ['Interpretable ML', 'Performance engineering']  
   - Employer: Aalto University
     Place: Helsinki, Finland
     Positions:
       - Title: Doctoral Researcher
-        Date: 2016 - 2020
+        Date: Sep, 2016 - Oct, 2020
         Details:
-          - Designed Steiner tree-based algorithms for misinformation propagation reconstruction with approximation guarantees
-          - Created scalable algorithms for detecting polarized communities on social networks with millions of nodes
-          - Developed fair clustering algorithms and large-scale multi-label learning systems
-          - Published 10+ papers in top venues (WebConf, SDM, ICDM) on social good applications
-        Badges: ['Graph Algorithms', 'Social Network Analysis', 'Algorithmic Fairness']  
+          - Designed graph-mining algorithms for model misinformation propagation process in social networks [<a class='paper__link' href='https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.75'>SDM 18'</a>, <a class='paper__link' href='https://arxiv.org/pdf/1809.05812'>ICDM 19'</a>]
+          - Created scalable algorithms for detecting polarized communities on social networks with millions of nodes [<a class='paper__link' href='https://arxiv.org/pdf/2001.09410'>WebConf 20'</a>]
+          - Studied fairness algorithms for clustering problems [<a class='paper__link' href='https://drive.google.com/file/d/1UAci0onLBbDjxpl8qiyhM31JR5x9oaxR/view?usp=sharing'>manuscript</a>]
+          - Side project -- large-scale multi-label learning [<a class='paper__link' href='https://arxiv.org/abs/1904.08249'>Machine Learning 20'</a>]
+        Badges: ['Social network analysis', 'Combinatorial optimization', 'Convex optimization', 'Algorithmic fairness', 'Online polarization', 'Misinformation']  
 Education:
   - Course: Ph.D. in Computer Science
     Place: Aalto University, Finland
     Date: 2016 - 2020
-    Details: "Thesis: Data science for social good. Topics: approximation algorithms, combinatorics, convex optimization, misinformation, online polarization, algorithmic fairness. Advisor: Prof. Aristides Gionis"
+    Details: "Thesis: Data science for social good. Advised by Prof. Aristides Gionis"
   - Course: M.Sc. in Computer Science
     Place: Helsinki University, Finland
     Date: 2013 - 2016
-    Details: "Thesis: Event detection in interaction networks"
+    Details: "Focus: machine learning and algorithm design"
   - Course: B.Sc. in Computer Science
     Place: Wuhan University of Technology, China
     Date: 2008 - 2012
-    Details: "Thesis: A Bayes spam filter for the Chinese language"
+    # Details: "Thesis: A Bayes spam filter for the Chinese language"
 
 # References:
 #   Available upon request
@@ -134,8 +143,8 @@ Skills:
       - Optuna
   - Family: Developer Tools
     Items:
+      - Emacs
       - Claude Code
-      - Emacs      
       - Git
       - Docker
 
