@@ -17,21 +17,23 @@ BasicInfo:
 Profile:
   Summary: ML and software engineering professional with 9+ years of experience, seeking opportunities to build <b>safe and responsible AI</b> ⚖️ 🛡️️.
   Details:
-    - Expertise in interpretable ML, ML systems, and system programming.
+    - Expertise in interpretable ML and building ML research infrastructure.
     - 6+ years of research in data mining and ML algorithms, with 15+ papers (KDD, WebConf).
-    - Passionate about writing clean code, understanding things clearly and explaining them well.
+    - Passionate about writing clean, scalable code and building tools that help researchers understand AI systems.
+    - Actively learning LLM interpretability techniques and transformer architectures.
 Experience:
   - Employer: Cambri
     Place: Helsinki, Finland
     Positions:
       - Title: Senior Data Scientist
         Date: May, 2025 - Present
-        Summary: Building LaunchAI™, a concept validation platform to revolutionize market research
+        Summary: Building LaunchAI™, an AI-powered concept validation platform leveraging fine-tuned LLMs to revolutionize market research
         Details:
-          - Designing interpretable ML algorithms that provide actionable insights 💎 to our clients
-          - Implementing LLM agents 🤖 to automate the full cycle of data preparation, model development, and deployment
+          - Designing interpretable ML algorithms and building analysis tools that provide actionable insights 💎 to our clients
+          - Implementing LLM agents 🤖 to automate the full model development cycle
+          - Building rapid prototyping infrastructure to iterate quickly on experimental AI techniques
           - Awarded "Cambri Cultural Hero" 🏆 for energizing the team with collaborative spirit 🤝, delivering excellence ⭐, and inspiring high performance 🚀
-        Badges: ['Interpretability', 'Statistical modeling', 'LLM agents', 'MLOps']
+        Badges: ['Interpretability', 'LLM agents', 'Rapid prototyping', 'ML infrastructure', 'Statistical modeling']
   - Employer: The Upright Project
     Place: Helsinki, Finland
     Positions:
@@ -48,13 +50,13 @@ Experience:
     Positions:
       - Title: Machine Learning Research Engineer
         Date: Feb, 2022 - Apr, 2024
-        Summary: Building scalable ML systems for advertising optimization and data infrastructure
+        Summary: Building scalable ML systems and research infrastructure for advertising optimization and large-scale data analysis
         Details:
           - Built privacy-constrained ML models 🔐 for conversion prediction using TensorFlow and multi-GPU training
           - Redesigned terabyte-scale data pipeline achieving 25% performance improvement ⚡️ and $1.7M annual cost savings💰
           - Led software architecture overhaul reducing code complexity by 50x and improving test coverage from 46% to 97% ✨
-          - Implemented ML explainability tools using SHAP
-        Badges: ['Neural nets', 'Pipeline optimization', 'Multi-GPU training', 'MLOps', 'ML explainability']
+          - Built ML interpretability infrastructure and explainability tools using SHAP for production model analysis
+        Badges: ['ML infrastructure', 'Neural nets', 'Pipeline optimization', 'Multi-GPU training', 'ML explainability', 'MLOps']
   - Employer: Facebook
     Place: London, UK
     Positions:
@@ -69,10 +71,10 @@ Research:
     Positions:
       - Title: Researcher (part-time)
         Date: Oct, 2024 - Present
-        Summary: Developing ML system for spatial transcriptomics analysis 🧬
+        Summary: Developing interpretable ML system and research tools for spatial transcriptomics analysis 🧬
         Details:
-          - Developing GNN architectures to model spatial gene expression patterns
-          - Implementing distributed training pipelines for large-scale experimentation 🧪
+          - Developing interpretable GNN architectures to model spatial gene expression patterns
+          - Building research infrastructure and distributed training pipelines for large-scale experimentation 🧪
         Badges: ['Graph neural nets', 'PyTorch', 'Bioinformatics', 'Distributed computing']
   - Employer: Aalto University
     Place: Helsinki, Finland
@@ -118,6 +120,11 @@ Education:
 
 
 Skills:
+  - Family: AI Research
+    Items:
+      - Interpretable & explainable ML
+      - Foundation models
+      - Transformer architectures
   - Family: Programming Languages
     Items:
       - Python
@@ -133,19 +140,23 @@ Skills:
     Items:
       - PyTorch
       - TensorFlow
+      # - JAX (learning)
       - PyMC
       - XGBoost
+      - Transformers/HuggingFace
   - Family: Distributed Computing
     Items:
       - Ray
       - PySpark
-  - Family: MLOps
+  - Family: MLOps & Infrastructure
     Items:
       - Kubeflow
       - MLflow
       - Metaflow
       - Ray Tune
       - Optuna
+      - ML pipeline design
+      - Research infrastructure
   - Family: Developer Tools
     Items:
       - Emacs
@@ -164,19 +175,19 @@ Languages:
 Software:
   - Name: stgym
     Link: https://github.com/xiaohan2012/stgym
-    Description: ML system for rapid GNN experimentation on spatial transcriptomics
+    Description: interpretable ML research framework for rapid GNN experimentation on spatial transcriptomics
   - Name: ers
     Link: https://github.com/xiaohan2012/efficient-rashomon-rule-set
-    Description: efficient Rashomon set exploration algorithms
+    Description: research tool for efficient Rashomon set exploration and model interpretability analysis
   - Name: corset
     Link: https://github.com/DiverseMultiLabelClassificationRules/CORSET
-    Description: interpretable multi-label rule-set learning algorithms
+    Description: research toolkit for interpretable multi-label rule-set learning and model analysis
   - Name: sdne
     Link: https://github.com/xiaohan2012/sdne-keras
-    Description: Structural Deep Network Embedding 
+    Description: neural network embedding toolkit for structural deep network analysis 
   - Name: dcnn-sentiment
     Link: https://github.com/xiaohan2012/twitter-sent-dnn
-    Description: Dynamic Convolutional Neural Network for sentiment analysis
+    Description: research implementation of Dynamic CNN architecture for neural network analysis and sentiment tasks
 # Diplomas:
 #   - Winner of HumAInity Open Innovation Challenge (Accenture, 2019)
 #   - Student travel grant (ICDM, 2018)
