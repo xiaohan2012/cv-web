@@ -55,7 +55,7 @@ Experience:
           - Built privacy-constrained ML models 🔐 for conversion prediction using TensorFlow and multi-GPU training
           - Redesigned terabyte-scale data pipeline achieving 25% performance improvement ⚡️ and $1.7M annual cost savings💰
           - Led software architecture overhaul reducing code complexity by 50x and improving test coverage from 46% to 97% ✨
-          - Built ML interpretability infrastructure and explainability tools using SHAP for production model analysis
+          - Built ML explainability tools using SHAP for production model analysis
         Badges: ['ML infrastructure', 'Neural nets', 'Pipeline optimization', 'Multi-GPU training', 'ML explainability', 'MLOps']
   - Employer: Facebook
     Place: London, UK
