@@ -90,7 +90,7 @@ Research:
       - Title: Doctoral Researcher
         Date: Sep, 2016 - Oct, 2020
         Details:
-          - Designed graph-mining algorithms for model misinformation propagation process in social networks [<a class='paper__link' href='https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.75'>SDM 18' <i class='fas fa-link'></i></a>, <a class='paper__link' href='https://arxiv.org/pdf/1809.05812'>ICDM 19' <i class='fas fa-link'></i></a>]
+          - Designed graph-mining algorithms to model misinformation propagation processes on social networks [<a class='paper__link' href='https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.75'>SDM 18' <i class='fas fa-link'></i></a>, <a class='paper__link' href='https://arxiv.org/pdf/1809.05812'>ICDM 19' <i class='fas fa-link'></i></a>]
           - Created scalable algorithms for detecting polarized communities on social networks with millions of nodes [<a class='paper__link' href='https://arxiv.org/pdf/2001.09410'>WebConf 20' <i class='fas fa-link'></i></a>]
           - Studied fairness algorithms for clustering problems [<a class='paper__link' href='https://drive.google.com/file/d/1UAci0onLBbDjxpl8qiyhM31JR5x9oaxR/view?usp=sharing'>manuscript <i class='fas fa-link'></i></a>]
           - Side project -- large-scale multi-label learning [<a class='paper__link' href='https://arxiv.org/abs/1904.08249'>Machine Learning 20' <i class='fas fa-link'></i></a>]
@@ -173,10 +173,10 @@ Software:
     Description: interpretable multi-label rule-set learning algorithms
   - Name: sdne
     Link: https://github.com/xiaohan2012/sdne-keras
-    Description: Structural Deep Network Embedding (in Keras)
-  - Name: dcnn
+    Description: Structural Deep Network Embedding 
+  - Name: dcnn-sentiment
     Link: https://github.com/xiaohan2012/twitter-sent-dnn
-    Description: Dynamic Convolutional Neural Network (in Theano)
+    Description: Dynamic Convolutional Neural Network for sentiment analysis
 # Diplomas:
 #   - Winner of HumAInity Open Innovation Challenge (Accenture, 2019)
 #   - Student travel grant (ICDM, 2018)

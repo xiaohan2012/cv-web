@@ -1,0 +1,41 @@
+// Custom overrides for single long page export
+// This disables the A4 page breaks while preserving column layout
+
+// Fix paper link colors
+.paper__link {
+    text-decoration: none;
+    color: $color-paper-link !important; // Use the proper blue color
+}
+
+@media print {
+    // Override the A4 page size constraint
+    @page {
+        margin: 0;
+        size: auto; // Remove A4 constraint
+    }
+    
+    // Disable page breaks but preserve layout - target specific elements only
+    .section, .sideSection, .experience__item, .education__item {
+        page-break-inside: auto !important;
+        page-break-before: auto !important;
+        page-break-after: auto !important;
+        break-inside: auto !important;
+        break-before: auto !important;
+        break-after: auto !important;
+    }
+    
+    // Allow content to flow naturally without height restrictions
+    .content {
+        overflow: visible !important;
+        height: auto !important;
+        // Keep position: absolute for column layout
+    }
+    
+    .content__left, 
+    .content__right {
+        height: auto !important;
+        // Preserve float and width for side-by-side layout
+        // Remove page-break restrictions only
+        page-break-inside: auto !important;
+    }
+}
