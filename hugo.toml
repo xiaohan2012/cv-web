@@ -24,7 +24,7 @@ colorRightColumnHeadingText = "#666"
 colorRightColumnBodyText = "#666"
 colorRightColumnIconPrimary = "#fff"
 colorRightColumnIconBackground = "#3182bd" # "#e3bfb8"
-pages = 2
+pages = 1
 # Set this param to 'true' to swap the bar positions
 swapColumns = false
 footerNote = "2025 © by Han Xiao"
