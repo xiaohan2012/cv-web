@@ -1,0 +1,16 @@
+{{ if .Software }}
+<div class="sideSection">
+    <div class="sideSection__heading">
+        <h2 class="sideSection__title">{{ i18n "software" }}</h2>
+    </div>
+    <div class="sideSection__content">
+        <ul class="software">
+            {{ range .Software }}
+            <li class="software__group">
+              <a href="{{ .Link }}" class="software__link" target="_blank"><i class="fab fa-github"></i> {{ .Name }}</a> {{ .Description | safeHTML }}
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</div>
+{{ end }}

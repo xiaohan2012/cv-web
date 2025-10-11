@@ -2,7 +2,7 @@
 other = "Profile"
 
 [experience]
-other = "Work Experience"
+other = "Industrial Experience"
 
 [research]
 other = "Research Experience"
@@ -24,3 +24,6 @@ other = "Diplomas"
 
 [interests]
 other = "Interests"
+
+[software]
+other = "Software"

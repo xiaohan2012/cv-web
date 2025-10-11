@@ -36,9 +36,9 @@
         transition: transform 0.2s cubic-bezier($cubic);
         margin-bottom: 2rem;
 
-        &:hover {
-            transform: translateX(0.5rem);
-        }
+        // &:hover {
+        //     transform: translateX(0.5rem);
+        // }
     }
 
     &__company,

@@ -9,9 +9,18 @@
         {{ range .Education }}
             <div class="education__item">
                 <h3 class="education__title">{{ .Course | safeHTML }}</h3>
-                <h4 class="education__place">{{ .Place | safeHTML }}</h4>
-                <h4 class="education__date">{{ .Date | safeHTML }}</h4>
-                <div class="education__description">{{ .Details | safeHTML }}</div>
+                <div class="education__header">
+                    <h4 class="education__place">{{ .Place | safeHTML }}</h4>
+                    <h4 class="education__date">{{ .Date | safeHTML }}</h4>
+                </div>
+                <div class="education__description">
+                {{ if .Thesis }}                  
+                Thesis: <a class='paper__link' href='https://aaltodoc.aalto.fi/server/api/core/bitstreams/dd24fffc-07ad-4cfe-96e5-d91cc55fd47f/content'>{{ .Thesis.Title | safeHTML }} <i class='fas fa-link'></i></a>, advised by {{.Thesis.Advisor | safeHTML}}<br>
+                {{ end }}
+                {{ if .Focus }}
+                Focus: {{ .Focus | safeHTML }}
+                {{ end }}                
+                </div>
             </div>
         {{ end }}
     </div>

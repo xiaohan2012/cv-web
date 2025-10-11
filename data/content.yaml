@@ -15,32 +15,33 @@ BasicInfo:
       Info: Helsinki, Finland
 
 Profile:
-  # Machine learning and data science professional with 9+ years of experience, seeking opportunities to drive innovation and create meaningful impacts.
-  Machine learning and data science professional with 9+ years of experience, seeking opportunities to build safe and responsible AI.
-  Expertise in interpretable ML, deep learning systems, and performance engineering with 15+ publications in top-tier venues. # 
-
+  Summary: ML and software engineering professional with 9+ years of experience, seeking opportunities to build safe and responsible AI ⚖️ 🛡️️.
+  Details:
+    - Expertise in interpretable ML, ML systems, and system programming.
+    - 6+ years of research in data mining and ML algorithms, with 15+ papers (KDD, WebConf).
+    - Passionate about writing clean code, understanding things clearly and explaining them well.
 Experience:
   - Employer: Cambri
     Place: Helsinki, Finland
     Positions:
       - Title: Senior Data Scientist
         Date: May, 2025 - Present
-        Summary: Building ML-powered concept testing tools to revolutionize market research
+        Summary: Building LaunchAI™, a concept validation platform to revolutionize market research
         Details:
-          - Leading development of LaunchAI, a ML platform for automated concept validation
-          - Implementing LLM agents to automate the full cycle of data preparation, model development, and deployment
-          - Designing interpretable ML algorithms that provide actionable insights to our clients
-        Badges: ['Statistical modeling', 'LLM agents', 'MLOps', 'Interpretability']
+          - Designing interpretable ML algorithms that provide actionable insights 💎 to our clients
+          - Implementing LLM agents 🤖 to automate the full cycle of data preparation, model development, and deployment
+          - Awarded "Cambri Cultural Hero" 🏆 for energizing the team with collaborative spirit 🤝, delivering excellence ⭐, and inspiring high performance 🚀
+        Badges: ['Interpretability', 'Statistical modeling', 'LLM agents', 'MLOps']
   - Employer: The Upright Project
     Place: Helsinki, Finland
     Positions:
       - Title: Senior Data Scientist
         Date: May, 2024 - Apr, 2025
-        Summary: Developing interpretable ML solutions for corporate-level impact quantification
+        Summary: Developing interpretable ML solutions for corporate-level impact quantification 🌎 🌱
         Details:
-          - Built Bayesian regression models for greenhouse gas emission estimation, reducing prediction error by 15-25%
-          - Redesigned algorithms for enhanced interpretability with production deployment
-          - Developed LLM agents for automated extraction of sustainability metrics from company reports
+          - Built Bayesian models for environmental impact estimation, improving accuracy by 30% 🎯
+          - Redesigned algorithms for enhanced interpretability 🔍 with production deployment
+          - Built LLM agents for automated sustainability metrics extraction from company reports
         Badges: ['Bayesian modeling', 'Interpretability', 'LLM agents', 'Sustainability']
   - Employer: Unity Technologies
     Place: Helsinki, Finland
@@ -49,9 +50,9 @@ Experience:
         Date: Feb, 2022 - Apr, 2024
         Summary: Building scalable ML systems for advertising optimization and data infrastructure
         Details:
-          - Built privacy-constrained ML models for conversion prediction using TensorFlow and multi-GPU training
-          - Redesigned terabyte-scale data pipeline achieving 25% performance improvement and $1.7M annual cost savings
-          - Led software architecture overhaul reducing code complexity by 50x and improving test coverage from 46% to 97%
+          - Built privacy-constrained ML models 🔐 for conversion prediction using TensorFlow and multi-GPU training
+          - Redesigned terabyte-scale data pipeline achieving 25% performance improvement ⚡️ and $1.7M annual cost savings💰
+          - Led software architecture overhaul reducing code complexity by 50x and improving test coverage from 46% to 97% ✨
           - Implemented ML explainability tools using SHAP
         Badges: ['Neural nets', 'Pipeline optimization', 'Multi-GPU training', 'MLOps', 'ML explainability']
   - Employer: Facebook
@@ -68,17 +69,17 @@ Research:
     Positions:
       - Title: Researcher (part-time)
         Date: Oct, 2024 - Present
-        Summary: Developing ML system for spatial transcriptomics analysis
+        Summary: Developing ML system for spatial transcriptomics analysis 🧬
         Details:
           - Developing GNN architectures to model spatial gene expression patterns
-          - Implementing distributed training pipelines for large-scale experimentation
+          - Implementing distributed training pipelines for large-scale experimentation 🧪
         Badges: ['Graph neural nets', 'PyTorch', 'Bioinformatics', 'Distributed computing']
   - Employer: Aalto University
     Place: Helsinki, Finland
     Positions:
       - Title: Postdoctoral Researcher
         Date: Nov, 2020 - Jan, 2022
-        Summary: Designing and engineering interpretable rule-based learning algorithms
+        Summary: Designing and engineering interpretable rule-based learning algorithms 🧩 🔍
         Details:
           - Developed interpretable rule set models with theoretical guarantees [<a class='paper__link' href='https://arxiv.org/abs/2210.01533'>ICDM 22'</a>]
           - Created efficient model exploration algorithms, achieving 1000x speedup over Google OR-tools [<a class='paper__link' href='https://arxiv.org/pdf/2406.03059'>KDD 24'</a>]
@@ -98,11 +99,15 @@ Education:
   - Course: Ph.D. in Computer Science
     Place: Aalto University, Finland
     Date: 2016 - 2020
-    Details: "Thesis: Data science for social good. Advised by Prof. Aristides Gionis"
+    Thesis:
+      Title: Data science for social good
+      URL: https://aaltodoc.aalto.fi/server/api/core/bitstreams/dd24fffc-07ad-4cfe-96e5-d91cc55fd47f/content
+      Advisor: Prof. Aristides Gionis
+    Focus: social network analysis, approximation algorithm
   - Course: M.Sc. in Computer Science
     Place: Helsinki University, Finland
     Date: 2013 - 2016
-    Details: "Focus: machine learning and algorithm design"
+    Focus: machine learning and algorithm design
   - Course: B.Sc. in Computer Science
     Place: Wuhan University of Technology, China
     Date: 2008 - 2012
@@ -156,6 +161,22 @@ Languages:
   - Name: Finnish
     Level: Basic
 
+Software:
+  - Name: stgym
+    Link: https://github.com/xiaohan2012/stgym
+    Description: ML system for rapid GNN experimentation on spatial transcriptomics
+  - Name: ers
+    Link: https://github.com/xiaohan2012/efficient-rashomon-rule-set
+    Description: efficient Rashomon set exploration algorithms
+  - Name: corset
+    Link: https://github.com/DiverseMultiLabelClassificationRules/CORSET
+    Description: interpretable multi-label rule-set learning algorithms
+  - Name: sdne
+    Link: https://github.com/xiaohan2012/sdne-keras
+    Description: Structural Deep Network Embedding (in Keras)
+  - Name: dcnn
+    Link: https://github.com/xiaohan2012/twitter-sent-dnn
+    Description: Dynamic Convolutional Neural Network (in Theano)
 # Diplomas:
 #   - Winner of HumAInity Open Innovation Challenge (Accenture, 2019)
 #   - Student travel grant (ICDM, 2018)
@@ -163,10 +184,9 @@ Languages:
 #   - 1st place in fitness track (Aalto Data Science Hackathon, 2014)
 #   - 2nd prize in national software talent contest (Beijing, 2012)
 
-# Interests:
-#   - Guitar playing
-#   - Cycling
-#   - Workout
-#   - Hiking
-#   - Algorithm design
-#   - Data visualization
+Interests:
+  - Category: Sports
+    Details: 🚴 🏊‍♂️ 🥾
+  - Category: Music
+    Details: 🎤 🎸
+

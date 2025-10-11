@@ -6,6 +6,8 @@ $color-primary: {{ .Site.Params.colorPrimary | default "#e3bfb8"}} !default;
 
 $color-secondary: {{ .Site.Params.colorSecondary | default "#aaa"}} !default;
 
+$color-paper-link: {{ .Site.Params.colorPrimary | default "#2E5C8F"}} !default;
+
 $color-icon-primary: {{ .Site.Params.colorIconPrimary | default "#fff"}} !default;
 $color-icon-background: {{ .Site.Params.colorIconBackground | default "#e3bfb8"}} !default;
 
@@ -33,6 +35,7 @@ $pages: {{ .Site.Params.pages | default 1}} !default;
 @import "components/contact";
 @import "components/avatar";
 @import "components/skills";
+@import "components/software";
 @import "components/languages";
 @import "components/interests";
 @import "components/404";

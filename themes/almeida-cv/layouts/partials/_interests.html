@@ -6,7 +6,10 @@
     <div class="sideSection__content">
         <ul class="interests">
             {{ range .Interests }}
-            <li class="interests__item">{{ . | safeHTML }}</li>
+            <li class="interests__item">
+                <div class="interests__category">{{ .Category | safeHTML }}</div>
+                <div class="interests__details">{{ .Details | safeHTML }}</div>              
+            </li>
             {{ end }}
         </ul>
     </div>
