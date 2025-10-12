@@ -9,3 +9,7 @@ Requirements:
 - Mention in the end that visa sponsorship is needed and the applicant maybe qualified for O1 visa
 
 Save the cover letter to 'cover-letter.md'
+
+Other remarks:
+
+#$ARGUMENTS
