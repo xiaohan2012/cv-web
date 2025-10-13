@@ -84,10 +84,10 @@ Research:
         Summary: Designing and engineering interpretable rule-based learning algorithms 🧩 🔍
         Details:
           - Developed interpretable rule set models with theoretical guarantees [<a class='paper__link' href='https://arxiv.org/abs/2210.01533'>ICDM 22' <i class='fas fa-link'></i></a>]
-          - Created efficient model exploration algorithms, achieving 1000x speedup over Google OR-tools [<a class='paper__link' href='https://arxiv.org/pdf/2406.03059'>KDD 24' <i class='fas fa-link'></i></a>]
+          - Created model exploration algorithms, ~10<sup>3</sup> speedup over Google OR-tool [<a class='paper__link' href='https://arxiv.org/pdf/2406.03059'>KDD 24' <i class='fas fa-link'></i></a>]
         Badges: ['Interpretable ML', 'Performance engineering']  
   - Employer: Aalto University
-    Place: Helsinki, Finland
+    Place: Espoo, Finland
     Positions:
       - Title: Doctoral Researcher
         Date: Sep, 2016 - Oct, 2020

@@ -8,9 +8,11 @@ colorlinks: true
 
 Dear Goodfire Team,
 
-I am writing to express my strong interest in the Research Engineer position at Goodfire. Your mission to build safe and trustworthy AI systems deeply resonates with my passion and background. I believe I would be an excellent fit for this role based on the following:
+I am writing to express my strong interest in the Research Engineer position at Goodfire. Your mission to build safe and trustworthy AI systems deeply resonates with my passion and background. 
 
-## Mission Alignment
+I believe I would be an excellent fit for this role based on the following:
+
+## Mission alignment
 
 My personal philosophy is to become a responsible person — for myself, my family, my community, and our society. As an ML professional, I want to take the responsibility in promoting safety and trustworthiness in the next generation of AI systems.
 
@@ -22,9 +24,9 @@ In the past few years, I've been dedicated to making AI systems more transparent
 - At Unity, implementing SHAP-based explainability tools for production deep learning models
 - Actively learning about interpretability and foundation models
 
-## Technical Fit
+## Technical fit
 
-With 9+ years of professional experience, I bring the exact technical foundation you seek:
+With 9+ years of professional experience, I bring the technical skills you seek:
 
 **ML infra & research engineering**: I believe that excellent infrastructure *enables* excellent ML research, demonstrated by my contributions across different roles:
 
@@ -34,14 +36,14 @@ With 9+ years of professional experience, I bring the exact technical foundation
 - Led code refactoring initiatives to ensure inference-time code robustness
 - Developed visualization tools to better understand model behavior
 
-**Research-engineer bridge**: My background spans pure research (15+ papers in top venues like KDD, WebConf) and production engineering. I build tools for researchers (me included) and am the creator of multiple open-source software ([stgym](https://github.com/xiaohan2012/stgym), [ers](https://github.com/xiaohan2012/efficient-rashomon-rule-set), [corset](https://github.com/DiverseMultiLabelClassificationRules/CORSET/blob/4858ccfb6a50a3a734511104e8b58dcf38e53eae/corset/samplers/dfs.pyx)).
+**Research-engineering bridge**: My background spans pure research (15+ papers in top venues like KDD, WebConf) and production engineering. I also build tools for researchers (me included) and am the creator of multiple open-source software ([stgym](https://github.com/xiaohan2012/stgym), [ers](https://github.com/xiaohan2012/efficient-rashomon-rule-set), [corset](https://github.com/DiverseMultiLabelClassificationRules/CORSET/blob/4858ccfb6a50a3a734511104e8b58dcf38e53eae/corset/samplers/dfs.pyx)).
 
 **Distributed systems & scale**: I have extensive experience with PyTorch, Ray, and PySpark across research and production environments
 
 - Built [distributed training pipelines](https://github.com/xiaohan2012/stgym) for large-scale experimentation using PyTorch, Torch Geometric, and Ray
 - At Unity: multi-GPU model training, and terabyte-scale data pipelines re-design and optimization
 
-**Systems programming & performance optimization**: I enjoy speeding up computer programs via acceleration techniques and algorithmic innovation:
+**Systems programming & performance optimization**: I enjoy speeding up computer programs via hardware acceleration and algorithmic innovation:
 
 - Accelerating [a model exploration tool](https://github.com/xiaohan2012/efficient-rashomon-rule-set) via search space pruning, multi-threading, and JIT, outperforming Google OR tools by 1000x.
 - Scaling [a graph algorithm](https://github.com/xiaohan2012/signed-local-community) to networks with millions of nodes, via fast eigen decomposition and smart search.
@@ -50,7 +52,7 @@ With 9+ years of professional experience, I bring the exact technical foundation
 
 **Startup experience & velocity**: My recent roles at Cambri and The Upright Project have immersed me in fast-moving startup environments, where colleagues consistently recognize my efficient problem-solving skills and execution speed.
 
-## Cultural Fit
+## Cultural fit
 
 Your values align strongly with my work approach, as evidenced by my recent "Cambri Cultural Hero" award recognizing:
 
