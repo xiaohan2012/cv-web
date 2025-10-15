@@ -17,8 +17,8 @@ BasicInfo:
 Profile:
   Summary: ML and software engineering professional with 9+ years of experience, seeking opportunities to build <b>safe and responsible AI</b> ⚖️ 🛡️️.
   Details:
-    - Expertise in interpretable ML, ML systems, and system programming.
-    - 6+ years of research in data mining and ML algorithms, with 15+ papers (KDD, WebConf).
+    - Built interpretable ML systems and tools for rapid experimentation and large-scale analysis.
+    - 6+ years developing deep understanding of ML algorithms, with publications on interpretability (KDD, WebConf).
     - Passionate about writing clean code, understanding things clearly and explaining them well.
 Experience:
   - Employer: Cambri
@@ -81,7 +81,7 @@ Research:
         Date: Nov, 2020 - Jan, 2022
         Summary: Designing and engineering interpretable rule-based learning algorithms 🧩 🔍
         Details:
-          - Developed interpretable rule set models with theoretical guarantees [<a class='paper__link' href='https://arxiv.org/abs/2210.01533'>ICDM 22' <i class='fas fa-link'></i></a>]
+          - Developed theoretically sound interpretable rule set models [<a class='paper__link' href='https://arxiv.org/abs/2210.01533'>ICDM 22' <i class='fas fa-link'></i></a>, <a class='paper__link' href='https://link.springer.com/article/10.1007/s10115-023-01930-6'>KAIS 23' <i class='fas fa-link'></i></a>]
           - Created efficient model exploration algorithms, achieving 1000x speedup over Google OR-tools [<a class='paper__link' href='https://arxiv.org/pdf/2406.03059'>KDD 24' <i class='fas fa-link'></i></a>]
         Badges: ['Interpretable ML', 'Performance engineering']  
   - Employer: Aalto University
