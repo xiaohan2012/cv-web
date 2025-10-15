@@ -9,6 +9,8 @@ BasicInfo:
       Info: xiaohan2012@gmail.com
     - Icon: fab fa-github
       Info: <a class="contact__link" href="https://github.com/xiaohan2012" target="_blank">github.com/xiaohan2012 <i class='fas fa-link'></i></a>
+    - Icon: fab fa-linkedin
+      Info: <a class="contact__link" href="https://www.linkedin.com/in/han-xiao-7499a840/" target="_blank">LinkedIn <i class='fas fa-link'></i></a>      
     - Icon: fas fa-graduation-cap
       Info: <a class="contact__link" href="https://scholar.google.com/citations?user=lUh4VVUAAAAJ&hl=en" target="_blank">Google Scholar <i class='fas fa-link'></i></a>
     - Icon: fas fa-map-marker-alt
