@@ -21,8 +21,8 @@ I'm most proud of my contribution to LaunchAI, Cambri's ML system for automated 
 
 Technical achievements:
 
-- Challenged and revised algorithmic assumptions that significantly improved model performance. By questioning how our models were making predictions, I identified flawed assumptions and implemented corrections that led to notably better accuracy across multiple model variants.
-- Implemented critical infrastructure improvements including data snapshotting for reproducibility, domain adaptation techniques for better generalization, and pipeline optimizations that accelerated our development cycle.
+- Challenged and revised algorithmic assumptions that significantly improved model performance. By questioning how our models were making predictions, I identified flawed assumptions and implemented corrections that led to notably better accuracy (from ~70% to 80+%) across multiple model variants.
+- Implemented critical infrastructure improvements including data snapshotting for reproducibility, domain adaptation techniques for better generalization, and pipeline optimizations that accelerated our development cycle (from days to hours).
 - Standardized the ML development lifecycle from data collection through deployment, incorporating comprehensive quality checks, unit tests, and LLM agents to automate repetitive tasks.
 - Championed tightly scoped experiments that allowed us to understand model behavior rapidly and iterate quickly on improvements.
 
