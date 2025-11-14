@@ -1,0 +1,32 @@
+Software Engineer, Machine Learning
+Singapore
+Engineering
+Machine Learning
+Software Engineering
+
+Meta is seeking talented engineers to join our teams in building cutting-edge products that connect billions of people around the world. As a member of our team, you will have the opportunity to work on complex technical problems, build new features, and improve existing products across various platforms, including mobile devices and web applications. Our teams are constantly pushing the boundaries of user experience, and we're looking for passionate individuals who can help us advance the way people connect globally. If you're interested in joining a world-class team of engineers and researchers to work on exciting projects that have significant impact, we encourage you to apply.
+Software Engineer, Machine Learning Responsibilities
+
+    Collaborate with cross-functional teams (product, design, operations, infrastructure) to build innovative application experiences
+    Implement custom user interfaces using latest programming techniques and technologies
+    Analyze and optimize code for quality, efficiency, and performance, and provide feedback to peers during code reviews
+    Set direction and goals for teams, lead major initiatives, provide technical guidance and mentorship to peers, and help onboard new team members
+    Architect efficient and scalable systems that drive complex applications
+    Identify and resolve performance and scalability issues, and drive large efforts to reduce technical debt
+    Work on a variety of coding languages and technologies
+    Establish ownership of components, features, or systems with expert end-to-end understanding
+
+Minimum Qualifications
+
+    8+ years of programming experience in a relevant language OR 4+ years experience with a PhD
+    Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience
+    Demonstrated experience driving change within an organization and leading complex technical projects
+    Experience utilizing data and analysis to explain technical problems and provide detailed feedback and solutions
+
+Preferred Qualifications
+
+    Masters degree or PhD in Computer Science or a related technical field
+    Experience with frameworks like TensorFlow, PyTorch, or Scikit-learn
+    Knowledge of NLP techniques, including text preprocessing, tokenization, and sentiment analysis
+    Understanding of information retrieval concepts, such as indexing, querying, and ranking
+    Grasp of data structures and algorithms, including graph theory and optimization techniques
