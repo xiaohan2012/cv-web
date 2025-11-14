@@ -97,6 +97,38 @@ Research:
           - Studied fairness algorithms for clustering problems [<a class='paper__link' href='https://drive.google.com/file/d/1UAci0onLBbDjxpl8qiyhM31JR5x9oaxR/view?usp=sharing'>manuscript <i class='fas fa-link'></i></a>]
           - Side project -- large-scale multi-label learning [<a class='paper__link' href='https://arxiv.org/abs/1904.08249'>Machine Learning 20' <i class='fas fa-link'></i></a>]
         Badges: ['Social network analysis', 'Combinatorial optimization', 'Convex optimization', 'Algorithmic fairness', 'Online polarization', 'Misinformation']  
+  - Employer: University of Helsinki
+    Place: Helsinki, Finland
+    Positions:
+      - Title: Research Assistant
+        Date: Nov, 2014 - Aug, 2015
+        Summary: Worked with Dr. Roman Yangarber on Natural Language Processing projects
+        Details:
+          - Semi-supervised classification on product release text snippets
+          - Multi-label classification on business news
+          - Capitalization restoration for news title
+        Badges: ['Natural language processing']
+  - Employer: Helsinki Institute for Information Technology (HIIT)
+    Place: Helsinki, Finland
+    Positions:
+      - Title: Research Assistant
+        Date: May, 2014 - Aug, 2014
+        Summary: Worked with Dr. Dorota Glowacka on information retrieval and reinforcement learning projects
+        Details:
+          - Text retrieval system based on reinforcement learning
+          - Entity linking in news articles using Wikipedia data
+        Badges: ['Information retrieval', 'Natural language processing', 'Reinforcement learning', 'Entity linking']
+
+Teaching:
+  - Course: "Algorithmic Methods for Data Mining"
+    Institution: Aalto University
+    Date: 2016, 2018
+    Badges: ["Streaming algorithm", "Graph mining", "Similarity search", "Clustering"]
+  - Course: "Modern Database Systems"
+    Institution: Aalto University
+    Date: 2017
+    Badges: ['Information retrieval', 'Database systems', 'Indexing', 'Querying', 'Ranking']
+
 Education:
   - Course: Ph.D. in Computer Science
     Place: Aalto University, Finland
