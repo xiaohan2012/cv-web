@@ -1,32 +1,30 @@
-Software Engineer, Machine Learning
-Singapore
-Engineering
-Machine Learning
-Software Engineering
-
-Meta is seeking talented engineers to join our teams in building cutting-edge products that connect billions of people around the world. As a member of our team, you will have the opportunity to work on complex technical problems, build new features, and improve existing products across various platforms, including mobile devices and web applications. Our teams are constantly pushing the boundaries of user experience, and we're looking for passionate individuals who can help us advance the way people connect globally. If you're interested in joining a world-class team of engineers and researchers to work on exciting projects that have significant impact, we encourage you to apply.
-Software Engineer, Machine Learning Responsibilities
+Software Engineering, Machine Learning Responsibilities
 
     Collaborate with cross-functional teams (product, design, operations, infrastructure) to build innovative application experiences
     Implement custom user interfaces using latest programming techniques and technologies
-    Analyze and optimize code for quality, efficiency, and performance, and provide feedback to peers during code reviews
-    Set direction and goals for teams, lead major initiatives, provide technical guidance and mentorship to peers, and help onboard new team members
+    Develop reusable software components for interfacing with back-end platforms
+    Analyze and optimize code for quality, efficiency, and performance
+    Lead complex technical or product efforts and provide technical guidance to peers
     Architect efficient and scalable systems that drive complex applications
-    Identify and resolve performance and scalability issues, and drive large efforts to reduce technical debt
+    Identify and resolve performance and scalability issues
     Work on a variety of coding languages and technologies
-    Establish ownership of components, features, or systems with expert end-to-end understanding
+    Establish ownership of components, features, or systems with proven end-to-end understanding
 
 Minimum Qualifications
 
-    8+ years of programming experience in a relevant language OR 4+ years experience with a PhD
+    6+ years of experience in software engineering or a relevant field. 3+ years of experience if you have a PhD
+    2+ years of experience in one or more of the following areas: machine learning, recommendation systems, pattern recognition, data mining, artificial intelligence, or a related technical field
+    Experience with scripting languages such as Python, Javascript or Hack
+    Experience with developing machine learning models at scale from inception to business impact
+    Knowledge developing and debugging in C/C++ and Java, or experience with scripting languages such as Python, Perl, PHP, and/or shell scripts
+    Track record of setting technical direction for a team, driving consensus and successful cross-functional partnerships
+    Experience building and shipping high quality work and achieving high reliability
+    Experience improving quality through thoughtful code reviews, appropriate testing, proper rollout, monitoring, and proactive changes
     Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience
-    Demonstrated experience driving change within an organization and leading complex technical projects
-    Experience utilizing data and analysis to explain technical problems and provide detailed feedback and solutions
 
 Preferred Qualifications
 
-    Masters degree or PhD in Computer Science or a related technical field
-    Experience with frameworks like TensorFlow, PyTorch, or Scikit-learn
-    Knowledge of NLP techniques, including text preprocessing, tokenization, and sentiment analysis
-    Understanding of information retrieval concepts, such as indexing, querying, and ranking
-    Grasp of data structures and algorithms, including graph theory and optimization techniques
+    Masters degree or PhD in Computer Science or another machine learning-related field
+    Exposure to architectural patterns of large scale software applications
+    Experience with scripting languages such as PyTorch and TensorFlow
+
