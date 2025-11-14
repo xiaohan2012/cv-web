@@ -17,11 +17,12 @@ BasicInfo:
       Info: Helsinki, Finland
 
 Profile:
-  Summary: ML and software engineering professional with 9+ years of experience, seeking opportunities to build <b>safe and responsible AI</b> ⚖️ 🛡️️.
+  Summary: ML and software engineering professional with 9+ years of experience, aspiring to make positive impacts ❤️.
   Details:
-    - Expertise in interpretable ML, ML systems, and system programming.
-    - 6+ years of research in data mining and ML algorithms, with 15+ papers (KDD, WebConf).
-    - Passionate about writing clean code, understanding things clearly and explaining them well.
+    - Led technical delivery of multiple cross-functional ML projects
+    - Experience optimizing large-scale systems and data pipelines
+    - Strong expertise in graph algorithms, with experience in NLP and information retrieval
+    - 6+ years of research in data mining and ML algorithms, with 15+ publications in top-tier venues (KDD, WebConf)
 Experience:
   - Employer: Cambri
     Place: Helsinki, Finland
@@ -30,10 +31,11 @@ Experience:
         Date: May, 2025 - Present
         Summary: Building LaunchAI™, a concept validation platform to revolutionize market research
         Details:
-          - Designing interpretable ML algorithms that provide actionable insights 💎 to our clients
-          - Implementing LLM agents 🤖 to automate the full cycle of data preparation, model development, and deployment
+          - Made core contributions to ML model development, improving accuracy by 15% and reducing development cycles from weeks to days ⏰
+          - Drove team-level process improvements including unit testing standards, LLM-based automation 🤖, and weekly planning practices 
+          - Led feasibility studies for high-impact explorative projects, providing technical recommendation and direction 🧭 to the team
           - Awarded "Cambri Cultural Hero" 🏆 for energizing the team with collaborative spirit 🤝, delivering excellence ⭐, and inspiring high performance 🚀
-        Badges: ['Interpretability', 'Statistical modeling', 'LLM agents', 'MLOps']
+        Badges: ['Technical leadership', 'Statistical modeling', 'LLM agents', 'MLOps']
   - Employer: The Upright Project
     Place: Helsinki, Finland
     Positions:
@@ -169,6 +171,7 @@ Skills:
       - TensorFlow
       - PyMC
       - XGBoost
+      - Scikit-learn
   - Family: Distributed Computing
     Items:
       - Ray
