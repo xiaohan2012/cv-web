@@ -17,11 +17,12 @@ BasicInfo:
       Info: Helsinki, Finland
 
 Profile:
-  Summary: ML and software engineering professional with 9+ years of experience, seeking opportunities to build <b>safe and responsible AI</b> ⚖️ 🛡️️.
+  Summary: Research scientist and ML engineer with 9+ years of experience developing <b>scalable AI systems</b> and conducting <b>impactful research</b>.
   Details:
-    - Expertise in interpretable ML, ML systems, and system programming.
-    - 6+ years of research in data mining and ML algorithms, with 15+ papers (KDD, WebConf).
-    - Passionate about writing clean code, understanding things clearly and explaining them well.
+    - PhD in Computer Science with 15+ publications at top venues (KDD, WebConf, ICDM)
+    - Proven track record translating research insights into business solutions and large-scale production systems
+    - Expertise in ML algorithms, distributed systems, and cross-functional collaboration
+    - Independent project leadership from research conception to deployment
 Experience:
   - Employer: Cambri
     Place: Helsinki, Finland
@@ -33,7 +34,7 @@ Experience:
           - Designing interpretable ML algorithms that provide actionable insights 💎 to our clients
           - Implementing LLM agents 🤖 to automate the full cycle of data preparation, model development, and deployment
           - Awarded "Cambri Cultural Hero" 🏆 for energizing the team with collaborative spirit 🤝, delivering excellence ⭐, and inspiring high performance 🚀
-        Badges: ['Interpretability', 'Statistical modeling', 'LLM agents', 'MLOps']
+        Badges: ['Technical leadership', 'Statistical modeling', 'LLM agents', 'MLOps']
   - Employer: The Upright Project
     Place: Helsinki, Finland
     Positions:
@@ -57,13 +58,16 @@ Experience:
           - Led software architecture overhaul reducing code complexity by 50x and improving test coverage from 46% to 97% ✨
           - Implemented ML explainability tools using SHAP
         Badges: ['Neural nets', 'Pipeline optimization', 'Multi-GPU training', 'MLOps', 'ML explainability']
-  - Employer: Facebook
+  - Employer: Meta (Facebook)
     Place: London, UK
     Positions:
       - Title: Core Data Science Intern
         Date: Jun - Aug, 2018
-        Summary: Developing algorithmic prototype for inauthentic behaviors detection on Facebook graph
-        Badges: ['Social network analysis', 'Anomaly detection', 'Online integrity']
+        Summary: Developed graph mining algorithms for anomaly detection on Facebook social graph
+        Details:
+          - Built graph-based anomaly detection algorithms for inauthentic behavior identification
+          - Collaborated cross-functionally with product and engineering teams
+        Badges: ['Social network analysis', 'Anomaly detection', 'Graph algorithms', 'Large-scale systems']
 
 Research:
   - Employer: Fudan University
@@ -152,27 +156,26 @@ Education:
 
 
 Skills:
-  - Family: Programming Languages
-    Items:
-      - Python
-      - Cython
-      - C/C++
-      - TypeScript
-  - Family: System Programming
-    Items:
-      - SIMD
-      - OpenMP
-      - CUDA
-  - Family: Machine Learning
+  - Family: Machine Learning Frameworks
     Items:
       - PyTorch
       - TensorFlow
       - PyMC
       - XGBoost
-  - Family: Distributed Computing
+  - Family: Programming Languages
+    Items:
+      - Python
+      - C/C++      
+      - R
+      - MATLAB
+      - Cython
+  - Family: High-Performance Computing
     Items:
       - Ray
       - PySpark
+      - SIMD
+      - OpenMP
+      - CUDA
   - Family: MLOps
     Items:
       - Kubeflow
@@ -182,10 +185,10 @@ Skills:
       - Optuna
   - Family: Developer Tools
     Items:
-      - Emacs
-      - Claude Code
       - Git
       - Docker
+      - Emacs
+      - Claude Code
 
 Languages:
   - Name: English
