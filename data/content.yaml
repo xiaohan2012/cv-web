@@ -33,7 +33,7 @@ Experience:
           - Designing interpretable ML algorithms that provide actionable insights 💎 to our clients
           - Implementing LLM agents 🤖 to automate the full cycle of data preparation, model development, and deployment
           - Awarded "Cambri Cultural Hero" 🏆 for energizing the team with collaborative spirit 🤝, delivering excellence ⭐, and inspiring high performance 🚀
-        Badges: ['Interpretability', 'Statistical modeling', 'LLM agents', 'MLOps']
+        Badges: ['Interpretability', 'Feature engineering', 'LLM agents', 'MLOps']
   - Employer: The Upright Project
     Place: Helsinki, Finland
     Positions:
@@ -44,7 +44,7 @@ Experience:
           - Built Bayesian models for environmental impact estimation, improving accuracy by 30% 🎯
           - Redesigned algorithms for enhanced interpretability 🔍 with production deployment
           - Built LLM agents for automated sustainability metrics extraction from company reports
-        Badges: ['Bayesian modeling', 'Interpretability', 'LLM agents', 'Sustainability']
+        Badges: ['Bayesian modeling', 'Uncertainty quantification', 'LLM agents', 'Environmental modeling']
   - Employer: Unity Technologies
     Place: Helsinki, Finland
     Positions:
@@ -56,14 +56,14 @@ Experience:
           - Redesigned terabyte-scale data pipeline achieving 25% performance improvement ⚡️ and $1.7M annual cost savings💰
           - Led software architecture overhaul reducing code complexity by 50x and improving test coverage from 46% to 97% ✨
           - Implemented ML explainability tools using SHAP
-        Badges: ['Neural nets', 'Pipeline optimization', 'Multi-GPU training', 'MLOps', 'ML explainability']
+        Badges: ['Deep learning', 'Pipeline optimization', 'Multi-GPU training', 'MLOps', 'ML explainability']
   - Employer: Facebook
     Place: London, UK
     Positions:
       - Title: Core Data Science Intern
         Date: Jun - Aug, 2018
         Summary: Developing algorithmic prototype for inauthentic behaviors detection on Facebook graph
-        Badges: ['Social network analysis', 'Anomaly detection', 'Online integrity']
+        Badges: ['Graph analysis', 'Anomaly detection', 'Network modeling']
 
 Research:
   - Employer: Fudan University
@@ -96,7 +96,7 @@ Research:
           - Created scalable algorithms for detecting polarized communities on social networks with millions of nodes [<a class='paper__link' href='https://arxiv.org/pdf/2001.09410'>WebConf 20' <i class='fas fa-link'></i></a>]
           - Studied fairness algorithms for clustering problems [<a class='paper__link' href='https://drive.google.com/file/d/1UAci0onLBbDjxpl8qiyhM31JR5x9oaxR/view?usp=sharing'>manuscript <i class='fas fa-link'></i></a>]
           - Side project -- large-scale multi-label learning [<a class='paper__link' href='https://arxiv.org/abs/1904.08249'>Machine Learning 20' <i class='fas fa-link'></i></a>]
-        Badges: ['Social network analysis', 'Combinatorial optimization', 'Convex optimization', 'Algorithmic fairness', 'Online polarization', 'Misinformation']  
+        Badges: ['Graph algorithms', 'Combinatorial optimization', 'Scalable algorithms', 'Multi-label learning']
   - Employer: University of Helsinki
     Place: Helsinki, Finland
     Positions:
@@ -117,7 +117,7 @@ Research:
         Details:
           - Text retrieval system based on reinforcement learning
           - Entity linking in news articles using Wikipedia data
-        Badges: ['Information retrieval', 'Natural language processing', 'Reinforcement learning', 'Entity linking']
+        Badges: ['Information retrieval', 'Reinforcement learning', 'Entity linking']
 
 Teaching:
   - Course: "Algorithmic Methods for Data Mining"
@@ -169,6 +169,14 @@ Skills:
       - TensorFlow
       - PyMC
       - XGBoost
+  - Family: Scientific Computing
+    Items:
+      - NumPy
+      - SciPy
+      - Pandas
+      - Matplotlib
+      - Jupyter
+      - Networkx
   - Family: Distributed Computing
     Items:
       - Ray
