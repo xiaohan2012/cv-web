@@ -17,11 +17,11 @@ BasicInfo:
       Info: Helsinki, Finland
 
 Profile:
-  Summary: ML and software engineering professional with 9+ years of experience, seeking opportunities to build <b>safe and responsible AI</b> ⚖️ 🛡️️.
+  Summary: ML and software engineering professional with 9+ years of experience, seeking opportunities to make positive impacts such as green transitioning.
   Details:
-    - Expertise in interpretable ML, ML systems, and system programming.
-    - 6+ years of research in data mining and ML algorithms, with 15+ papers (KDD, WebConf).
-    - Passionate about writing clean code, understanding things clearly and explaining them well.
+    - Expertise in Graph Neural Networks, Bayesian modeling, foundation models, and production ML systems.
+    - 6+ years of research applying ML to scientific domains (bioinformatics, social networks, etc), with 15+ papers (KDD, WebConf).
+    - Passionate about building scalable, production-grade ML systems and bridging AI research with scientific applications.
 Experience:
   - Employer: Cambri
     Place: Helsinki, Finland
