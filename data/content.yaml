@@ -17,31 +17,30 @@ BasicInfo:
       Info: Helsinki, Finland
 
 Profile:
-  Summary: ML and software engineering professional with 9+ years of experience, seeking opportunities to build <b>safe and responsible AI</b> ⚖️ 🛡️️.
+  Summary: Broadly speaking, I aspire to create positive impacts via technical innovation. I'm now seeking opportunities to build <b>safe and responsible AI</b> ⚖️ 🛡️️.
   Details:
-    - Expertise in interpretable ML, ML systems, and system programming.
-    - 6+ years of research in data mining and ML algorithms, with 15+ papers (KDD, WebConf).
-    - Passionate about writing clean code, understanding things clearly and explaining them well.
+    - During my PhD, I designed algorithms to address online issues including polarization, mis-information, and bias (<a class='paper__link' href='https://arxiv.org/pdf/2001.09410'>WWW</a>, <a class='paper__link' href='https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.75'>SDM</a>, <a class='paper__link' href='https://arxiv.org/pdf/1809.05812'>ICDM</a>). 
+    - During post-doc, I gained interest in interpretable ML and published works at <a class="paper__link" href="https://arxiv.org/pdf/2406.03059">KDD</a> and <a class="paper__link" href="https://arxiv.org/abs/2210.01533">ICDM</a>.
+    - Recently, I have been engaging with mechanistic interpretability (SAE)
+    - Besides research, I enjoy coding. See my projects at <a class="paper__link" href="https://github.com/xiaohan2012">github/xiaohan2012</a>    
 Experience:
   - Employer: Cambri
     Place: Helsinki, Finland
     Positions:
       - Title: Senior Data Scientist
         Date: May, 2025 - Present
-        Summary: Building LaunchAI™, a concept validation platform to revolutionize market research
+        Summary: Building <a class="paper__link" href="https://www.cambri.io/what-is-launch-ai">LaunchAI™</a>, a concept validation platform to reduce process waste
         Details:
-          - Designing interpretable ML algorithms that provide actionable insights 💎 to our clients
-          - Implementing LLM agents 🤖 to automate the full cycle of data preparation, model development, and deployment
-          - Awarded "Cambri Cultural Hero" 🏆 for energizing the team with collaborative spirit 🤝, delivering excellence ⭐, and inspiring high performance 🚀
+          - Developing interpretable ML models which provide actionable insights 💎 to our customers
+          - Automating data preparation and model development using LLM 🤖
         Badges: ['Interpretability', 'Statistical modeling', 'LLM agents', 'MLOps']
   - Employer: The Upright Project
     Place: Helsinki, Finland
     Positions:
       - Title: Senior Data Scientist
         Date: May, 2024 - Apr, 2025
-        Summary: Developing interpretable ML solutions for corporate-level impact quantification 🌎 🌱
+        Summary: Developing ML solutions for corporate-level impact quantification 🌎 🌱 at <a class="paper__link" href="https://www.uprightproject.com/platform">Upright Platform</a>
         Details:
-          - Built Bayesian models for environmental impact estimation, improving accuracy by 30% 🎯
           - Redesigned algorithms for enhanced interpretability 🔍 with production deployment
           - Built LLM agents for automated sustainability metrics extraction from company reports
         Badges: ['Bayesian modeling', 'Interpretability', 'LLM agents', 'Sustainability']
@@ -53,8 +52,7 @@ Experience:
         Summary: Building scalable ML systems for advertising optimization and data infrastructure
         Details:
           - Built privacy-constrained ML models 🔐 for conversion prediction using TensorFlow and multi-GPU training
-          - Redesigned terabyte-scale data pipeline achieving 25% performance improvement ⚡️ and $1.7M annual cost savings💰
-          - Led software architecture overhaul reducing code complexity by 50x and improving test coverage from 46% to 97% ✨
+          - Redesigned terabyte-scale data pipeline for performance optimization
           - Implemented ML explainability tools using SHAP
         Badges: ['Neural nets', 'Pipeline optimization', 'Multi-GPU training', 'MLOps', 'ML explainability']
   - Employer: Facebook
@@ -71,7 +69,7 @@ Research:
     Positions:
       - Title: Researcher (part-time)
         Date: Oct, 2024 - Present
-        Summary: Developing ML system for spatial transcriptomics analysis 🧬
+        Summary: Crafting <a class="paper__link" href="https://github.com/xiaohan2012/stgym"><i class="fab fa-github"></i> stgym</a>, an ML system for spatial transcriptomics analysis 🧬
         Details:
           - Developing GNN architectures to model spatial gene expression patterns
           - Implementing distributed training pipelines for large-scale experimentation 🧪
@@ -97,27 +95,16 @@ Research:
           - Studied fairness algorithms for clustering problems [<a class='paper__link' href='https://drive.google.com/file/d/1UAci0onLBbDjxpl8qiyhM31JR5x9oaxR/view?usp=sharing'>manuscript <i class='fas fa-link'></i></a>]
           - Side project -- large-scale multi-label learning [<a class='paper__link' href='https://arxiv.org/abs/1904.08249'>Machine Learning 20' <i class='fas fa-link'></i></a>]
         Badges: ['Social network analysis', 'Combinatorial optimization', 'Convex optimization', 'Algorithmic fairness', 'Online polarization', 'Misinformation']  
-  - Employer: University of Helsinki
-    Place: Helsinki, Finland
+  - Employer: Tongji University
+    Place: Remote
     Positions:
-      - Title: Research Assistant
-        Date: Nov, 2014 - Aug, 2015
-        Summary: Worked with Dr. Roman Yangarber on Natural Language Processing projects
+      - Title: Research Assistant (part-time)
+        Date: Oct, 2012 - Oct, 2014 
+        Summary: Modeling antigen-antibody interaction with bio-informatics researchers.
         Details:
-          - Semi-supervised classification on product release text snippets
-          - Multi-label classification on business news
-          - Capitalization restoration for news title
-        Badges: ['Natural language processing']
-  - Employer: Helsinki Institute for Information Technology (HIIT)
-    Place: Helsinki, Finland
-    Positions:
-      - Title: Research Assistant
-        Date: May, 2014 - Aug, 2014
-        Summary: Worked with Dr. Dorota Glowacka on information retrieval and reinforcement learning projects
-        Details:
-          - Text retrieval system based on reinforcement learning
-          - Entity linking in news articles using Wikipedia data
-        Badges: ['Information retrieval', 'Natural language processing', 'Reinforcement learning', 'Entity linking']
+          - Responsible for programming and running experiment
+          - Work published at <a class='paper__link' href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0122416'>PLoS One 25' <i class='fas fa-link'></i></a> 
+        Badges: ['Bioinformatics', "Machine learning"]
 
 Teaching:
   - Course: "Algorithmic Methods for Data Mining"
@@ -137,15 +124,17 @@ Education:
       Title: Data science for social good
       URL: https://aaltodoc.aalto.fi/server/api/core/bitstreams/dd24fffc-07ad-4cfe-96e5-d91cc55fd47f/content
       Advisor: Prof. Aristides Gionis
-    Focus: social network analysis, approximation algorithm
+    Focus: combinatorial optimization, approximation algorithm, social network analysis
+    Details: Work published at <a class='paper__link' href='https://arxiv.org/pdf/2001.09410'>WWW 20'<i class='fas fa-link'></i></a>, <a class='paper__link' href='https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.75'>SDM 18'<i class='fas fa-link'></i></a>, <a class='paper__link' href='https://arxiv.org/pdf/1809.05812'>ICDM 19'<i class='fas fa-link'></i></a>, <a class='paper__link' href='https://arxiv.org/abs/1904.08249'>ML 20'<i class='fas fa-link'></i></a>
   - Course: M.Sc. in Computer Science
     Place: Helsinki University, Finland
     Date: 2013 - 2016
     Focus: machine learning and algorithm design
+    Details: Thesis work published at <a class='paper__link' href='https://arxiv.org/pdf/1606.09446'>ECML PKDD 16'<i class='fas fa-link'></i></a>    
   - Course: B.Sc. in Computer Science
     Place: Wuhan University of Technology, China
     Date: 2008 - 2012
-    # Details: "Thesis: A Bayes spam filter for the Chinese language"
+    Details: "Thesis: A Bayes spam filter for the Chinese language"
 
 # References:
 #   Available upon request

@@ -18,7 +18,10 @@
                 Thesis: <a class='paper__link' href='https://aaltodoc.aalto.fi/server/api/core/bitstreams/dd24fffc-07ad-4cfe-96e5-d91cc55fd47f/content'>{{ .Thesis.Title | safeHTML }} <i class='fas fa-link'></i></a>, advised by {{.Thesis.Advisor | safeHTML}}<br>
                 {{ end }}
                 {{ if .Focus }}
-                Focus: {{ .Focus | safeHTML }}
+                Focus: {{ .Focus | safeHTML }}<br>
+                {{ end }}                                
+                {{ if .Details }}
+                {{ .Details | safeHTML }}<br>
                 {{ end }}                
                 </div>
             </div>
