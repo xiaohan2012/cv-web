@@ -1,7 +1,7 @@
 .references {
     &__item {
         display: inline-block;
-        min-width: 49%;
+        width: 100%;
         @include avoid-break;
         &:not(:first-child) {
             padding-top: 1.5rem;
@@ -22,9 +22,9 @@
         position: relative;
         transition: transform 0.2s cubic-bezier($cubic);
 
-        &:hover {
-            transform: translateX(0.5rem);
-        }
+        // &:hover {
+        //     transform: translateX(0.5rem);
+        // }
     }
 
     &__name,
@@ -37,6 +37,9 @@
     &__contact {
         position: relative;
         font-size: 1rem;
+        display: flex;
+        align-items: flex-start;
+        margin-bottom: 0.5rem;
 
         & > i {
             background-color: $color-icon-background;
@@ -48,12 +51,14 @@
             width: 2rem;
             height: 2rem;
             margin-right: 0.5rem;
-            margin-bottom: 0.5rem;
+            flex-shrink: 0;
         }
         & > span {
-            @include vt-center;
-            min-height: 1.5rem;
-            line-height: 1.2rem;
+            flex: 1;
+            line-height: 1.3rem;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            hyphens: auto;
         }
     }
 

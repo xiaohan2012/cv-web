@@ -17,6 +17,11 @@
                         <h4 class="references__relation">
                             {{ .Relation | safeHTML}}
                         </h4>
+                        {{ if .Affiliation }}
+                        <div class="references__affiliation">
+                            <i class="fas fa-university"></i> {{ .Affiliation | safeHTML}}
+                        </div>
+                        {{ end }}
                     </div>
                     {{ range .Contacts }}
                         <li class="references__contact">

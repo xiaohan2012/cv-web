@@ -69,7 +69,7 @@ Research:
     Positions:
       - Title: Researcher (part-time)
         Date: Oct, 2024 - Present
-        Summary: Crafting <a class="paper__link" href="https://github.com/xiaohan2012/stgym"><i class="fab fa-github"></i> stgym</a>, an ML system for spatial transcriptomics analysis 🧬
+        Summary: Crafting <a class="paper__link" href="https://github.com/xiaohan2012/stgym"><i class="fab fa-github"></i> stgym</a>, an ML system to accelerate spatial transcriptomics research 🧬
         Details:
           - Developing GNN architectures to model spatial gene expression patterns
           - Implementing distributed training pipelines for large-scale experimentation 🧪
@@ -136,10 +136,34 @@ Education:
     Date: 2008 - 2012
     Details: "Thesis: A Bayes spam filter for the Chinese language"
 
-# References:
-#   Available upon request
-
-
+References:
+  - Name: Prof. Aristides Gionis
+    Relation: Doctoral supervisor (Aalto University)
+    Contacts:
+      - Icon: fas fa-university
+        Info: "Professor, <br/> KTH Royal Institute of Technology"
+      - Icon: fas fa-envelope
+        Info: argioni@kth.se 
+      - Icon: fas fa-phone
+        Info: +46 73 461 8933
+  - Name: Dr. Eric Malmi
+    Relation: Peer (Aalto University)
+    Contacts:
+      - Icon: fas fa-university
+        Info: "Staff Research Scientist, <br/> Google DeepMind"
+      - Icon: fas fa-envelope
+        Info: eric.malmi@gmail.com
+      - Icon: fas fa-phone
+        Info: +358 44 0478010
+  - Name: Dmitri Carpov
+    Relation: Colleague (Unity Technologies)
+    Contacts:
+      - Icon: fas fa-university
+        Info: "Senior Research Developer, <br/> LawZero"
+      - Icon: fas fa-envelope
+        Info: dmitri.carpov@gmail.com
+      - Icon: fas fa-phone
+        Info: +1 438 882-9526
 Skills:
   - Family: Programming Languages
     Items:
