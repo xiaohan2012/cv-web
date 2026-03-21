@@ -19,10 +19,10 @@ BasicInfo:
 Profile:
   Summary: Broadly speaking, I aspire to create positive impacts via technical innovation. I'm now seeking opportunities to build <b>safe and responsible AI</b> ⚖️ 🛡️️.
   Details:
-    - During my PhD, I designed algorithms to address online issues including polarization, mis-information, and bias (<a class='paper__link' href='https://arxiv.org/pdf/2001.09410'>WWW</a>, <a class='paper__link' href='https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.75'>SDM</a>, <a class='paper__link' href='https://arxiv.org/pdf/1809.05812'>ICDM</a>). 
+    - During my PhD, I designed algorithms to address online safety issues such as polarization, mis-information, and bias (<a class='paper__link' href='https://arxiv.org/pdf/2001.09410'>WWW</a>, <a class='paper__link' href='https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.75'>SDM</a>, <a class='paper__link' href='https://arxiv.org/pdf/1809.05812'>ICDM</a>). 
     - During post-doc, I gained interest in interpretable ML and published works at <a class="paper__link" href="https://arxiv.org/pdf/2406.03059">KDD</a> and <a class="paper__link" href="https://arxiv.org/abs/2210.01533">ICDM</a>.
     - Recently, I have been engaging with mechanistic interpretability (SAE)
-    - Besides research, I enjoy coding. See my projects at <a class="paper__link" href="https://github.com/xiaohan2012">github/xiaohan2012</a>    
+    - Besides research, I enjoy coding. See my open source projects at <a class="paper__link" href="https://github.com/xiaohan2012">github/xiaohan2012</a>    
 Experience:
   - Employer: Cambri
     Place: Helsinki, Finland
