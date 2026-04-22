@@ -16,13 +16,12 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Helsinki, Finland
 
-Profile:
-  Summary: Broadly speaking, I aspire to create positive impacts via technical innovation. I'm now seeking opportunities to build <b>safe and responsible AI</b> ⚖️ 🛡️️.
+Highlights:
   Details:
-    - During my PhD, I designed algorithms to address online safety issues such as polarization, mis-information, and bias (<a class='paper__link' href='https://arxiv.org/pdf/2001.09410'>WWW</a>, <a class='paper__link' href='https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.75'>SDM</a>, <a class='paper__link' href='https://arxiv.org/pdf/1809.05812'>ICDM</a>). 
-    - During post-doc, I gained interest in interpretable ML and published works at <a class="paper__link" href="https://arxiv.org/pdf/2406.03059">KDD</a> and <a class="paper__link" href="https://arxiv.org/abs/2210.01533">ICDM</a>.
-    - Recently, I have been engaging with mechanistic interpretability (SAE)
-    - Besides research, I enjoy coding. See my open source projects at <a class="paper__link" href="https://github.com/xiaohan2012">github/xiaohan2012</a>    
+    - "PhD in graph mining and ML; 5+ papers at WWW, KDD, SDM, ICDM; currently building GNNs for spatial transcriptomics"
+    - "4 years in industry: multi-GPU training and terabyte-scale pipelines at Unity, graph-based anomaly detection at Facebook"
+    - "Spotlight: scalable graph mining for million-node networks [<a class='paper__link' href='https://arxiv.org/pdf/2001.09410'>WWW 20'</a>]; a ruleset learner that is 3 orders of magnitude faster than Google OR-tools [<a class='paper__link' href='https://arxiv.org/pdf/2406.03059'>KDD 24'</a>]"
+    - "OSS: developing <a class='paper__link' href='https://github.com/xiaohan2012/stgym'>stgym</a>, a PyTorch-based GNN experimentation framework"
 Experience:
   - Employer: Cambri
     Place: Helsinki, Finland
@@ -68,8 +67,8 @@ Research:
     Place: Remote
     Positions:
       - Title: Researcher (part-time)
-        Date: Oct, 2024 - Present
-        Summary: Crafting <a class="paper__link" href="https://github.com/xiaohan2012/stgym"><i class="fab fa-github"></i> stgym</a>, an ML system to accelerate spatial transcriptomics research 🧬
+        Date: Oct, 2025 - Present
+        Summary: Developing <a class="paper__link" href="https://github.com/xiaohan2012/stgym"><i class="fab fa-github"></i> stgym</a>, a system to accelerate GNN-based spatial transcriptomics research 🧬
         Details:
           - Developing GNN architectures to model spatial gene expression patterns
           - Implementing distributed training pipelines for large-scale experimentation 🧪
@@ -155,15 +154,22 @@ References:
         Info: eric.malmi@gmail.com
       - Icon: fas fa-phone
         Info: +358 44 0478010
-  - Name: Dmitri Carpov
-    Relation: Colleague (Unity Technologies)
+  - Name: Daniel Haimovich
+    Relation: Supervisor (Facebook)
     Contacts:
       - Icon: fas fa-university
-        Info: "Senior Research Developer, <br/> LawZero"
+        Info: "Research Manager, Meta"
       - Icon: fas fa-envelope
-        Info: dmitri.carpov@gmail.com
+        Info: danielha@meta.com
+  - Name: Stalone Freitas
+    Relation: Peer (Unity)
+    Contacts:
+      - Icon: fas fa-university
+        Info: "Senior MLE, Unity"
+      - Icon: fas fa-envelope
+        Info: jean.fmsj@gmail.com
       - Icon: fas fa-phone
-        Info: +1 438 882-9526
+        Info: +358 466855258
 Skills:
   - Family: Programming Languages
     Items:
@@ -179,8 +185,8 @@ Skills:
   - Family: Machine Learning
     Items:
       - PyTorch
+      - Torch Geometric
       - TensorFlow
-      - PyMC
       - XGBoost
   - Family: Distributed Computing
     Items:
@@ -190,7 +196,6 @@ Skills:
     Items:
       - Kubeflow
       - MLflow
-      - Metaflow
       - Ray Tune
       - Optuna
   - Family: Developer Tools
