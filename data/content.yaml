@@ -20,7 +20,7 @@ Highlights:
   Details:
     - "PhD in graph mining and ML; 5+ papers at WWW, KDD, SDM, ICDM; currently building GNNs for spatial transcriptomics"
     - "4 years in industry: multi-GPU training and terabyte-scale pipelines at Unity, graph-based anomaly detection at Facebook"
-    - "Spotlight: scalable graph mining for million-node networks [<a class='paper__link' href='https://arxiv.org/pdf/2001.09410'>WWW 20'</a>]; a ruleset learner that is 3 orders of magnitude faster than Google OR-tools [<a class='paper__link' href='https://arxiv.org/pdf/2406.03059'>KDD 24'</a>]"
+    - "Research spotlight: scalable graph mining for million-node networks [<a class='paper__link' href='https://arxiv.org/pdf/2001.09410'>WWW 20'</a>]; a ruleset learner that is 3 orders of magnitude faster than Google OR-tools [<a class='paper__link' href='https://arxiv.org/pdf/2406.03059'>KDD 24'</a>]"
     - "OSS: developing <a class='paper__link' href='https://github.com/xiaohan2012/stgym'>stgym</a>, a PyTorch-based GNN experimentation framework"
 Experience:
   - Employer: Cambri
