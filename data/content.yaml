@@ -30,9 +30,10 @@ Experience:
         Date: May, 2025 - Present
         Summary: Building <a class="paper__link" href="https://www.cambri.io/what-is-launch-ai">LaunchAI™</a>, a concept validation platform to reduce process waste
         Details:
-          - Developing interpretable ML models which provide actionable insights 💎 to our customers
-          - Automating data preparation and model development using LLM 🤖
-        Badges: ['Interpretability', 'Statistical modeling', 'LLM agents', 'MLOps']
+          - Taking technical leadership including project management, scope analysis, and hands-on implementation
+          - Fine-tuning pre-trained transformers for regression problems and deploying them to production
+          - Developing agentic workflows for software development, data analytics, and internal automation
+        Badges: ['Transformer', 'Interpretability', 'Leadership', 'LLM agents', 'MLOps']
   - Employer: The Upright Project
     Place: Helsinki, Finland
     Positions:
