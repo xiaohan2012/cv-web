@@ -17,11 +17,13 @@ BasicInfo:
       Info: Helsinki, Finland
 
 Highlights:
+  Lead: "Pre-LLM-era algorithmic research on AI safety and harm mitigation; 4 years applying explainable AI in industry; now pivoting to AI safety via <a class='paper__link' href='https://bluedot.org' target='_blank'>BlueDot</a> and <a class='paper__link' href='https://www.arena.education/' target='_blank'>ARENA</a>."
   Details:
-    - "PhD in graph mining and ML; 5+ papers at WWW, KDD, SDM, ICDM; currently building GNNs for spatial transcriptomics"
-    - "4 years in industry: multi-GPU training and terabyte-scale pipelines at Unity, graph-based anomaly detection at Facebook"
-    - "Research spotlight: scalable graph mining for million-node networks [<a class='paper__link' href='https://arxiv.org/pdf/2001.09410'>WWW 20'</a>]; a ruleset learner that is 3 orders of magnitude faster than Google OR-tools [<a class='paper__link' href='https://arxiv.org/pdf/2406.03059'>KDD 24'</a>]"
-    - "OSS: developing <a class='paper__link' href='https://github.com/xiaohan2012/stgym'>stgym</a>, a PyTorch-based GNN experimentation framework"
+    - "PhD in ML and algorithm design from <a href='https://www.aalto.fi' target='_blank'><img src='/img/aalto.png' style='height:0.8em;vertical-align:-0.05em' title='Aalto University' alt='Aalto'></a>; 5+ papers at KDD, WWW, SDM, ICDM"
+    - "Industry track record in deep learning + interpretability: SHAP / Integrated Gradients feature attribution for production models (PyTorch, TensorFlow); interpretable-by-design algorithm redesign; Transformer fine-tuning"
+    - "Research spotlight: interpretable rule-set learning [<a class='paper__link' href='https://arxiv.org/abs/2210.01533'>ICDM 22'</a>]; efficient exploration of interpretable models [<a class='paper__link' href='https://arxiv.org/pdf/2406.03059'>KDD 24'</a>]; scalable graph mining [<a class='paper__link' href='https://arxiv.org/pdf/2001.09410'>WWW 20'</a>]"
+    - "Active focus on AI safety & interpretability: <a class='paper__link' href='https://www.arena.education/'>ARENA 3.0</a> — mech interp, circuit analysis, probing, data attribution; <a class='paper__link' href='https://bluedot.org/certification?id=rec9cWNrZcUCINpeH'>BlueDot Technical AI Safety</a> course and <a class='paper__link' href='https://docs.google.com/document/d/1sfsnmCCNnyvVPA_jz-5Ai7pIqHKacV-gdr1cdQn9G9c/edit?usp=drive_link'>Technical AI Safety puzzle</a>"
+    # - "OSS: developing <a class='paper__link' href='https://github.com/xiaohan2012/stgym'>stgym</a>, a PyTorch-based GNN experimentation framework"
 Experience:
   - Employer: Cambri
     Place: Helsinki, Finland
@@ -30,31 +32,32 @@ Experience:
         Date: May, 2025 - Present
         Summary: Building <a class="paper__link" href="https://www.cambri.io/what-is-launch-ai">LaunchAI™</a>, a concept validation platform to reduce process waste
         Details:
-          - Taking technical leadership including project management, scope analysis, and hands-on implementation
-          - Fine-tuning pre-trained transformers for regression problems and deploying them to production
-          - Developing agentic workflows for software development, data analytics, and internal automation
-        Badges: ['Transformer', 'Interpretability', 'Leadership', 'LLM agents', 'MLOps']
+          - "Leading projects end-to-end: PM, technical direction, and hands-on implementation"
+          - Fine-tuning pre-trained transformers and deploying them to production
+          - Applied feature attribution methods (Integrated Gradients) for model interpretability
+          - Agentic workflows for software development, data analytics, and internal automation
+        Badges: ['Transformer', 'Explainable AI', 'Leadership', 'LLM agents', 'MLOps']
   - Employer: The Upright Project
     Place: Helsinki, Finland
     Positions:
-      - Title: Senior Data Scientist
+      - Title: Senior Machine Learning Scientist
         Date: May, 2024 - Apr, 2025
         Summary: Developing ML solutions for corporate-level impact quantification 🌎 🌱 at <a class="paper__link" href="https://www.uprightproject.com/platform">Upright Platform</a>
         Details:
-          - Redesigned algorithms for enhanced interpretability 🔍 with production deployment
+          - Redesigned algorithms for enhanced interpretability and alignment with stakeholder expectations 🔍 with production deployment
           - Built LLM agents for automated sustainability metrics extraction from company reports
         Badges: ['Bayesian modeling', 'Interpretability', 'LLM agents', 'Sustainability']
   - Employer: Unity Technologies
     Place: Helsinki, Finland
     Positions:
-      - Title: Machine Learning Research Engineer
+      - Title: Data Scientist
         Date: Feb, 2022 - Apr, 2024
         Summary: Building scalable ML systems for advertising optimization and data infrastructure
         Details:
+          - Built ML explainability tooling (SHAP-based feature attribution) for production conversion models
           - Built privacy-constrained ML models 🔐 for conversion prediction using TensorFlow and multi-GPU training
           - Redesigned terabyte-scale data pipeline for performance optimization
-          - Implemented ML explainability tools using SHAP
-        Badges: ['Neural nets', 'Pipeline optimization', 'Multi-GPU training', 'MLOps', 'ML explainability']
+        Badges: ['Deep learning', 'Explainable AI', 'Pipeline optimization', 'Multi-GPU training', 'MLOps']
   - Employer: Facebook
     Place: London, UK
     Positions:
@@ -72,23 +75,26 @@ Research:
         Summary: Developing <a class="paper__link" href="https://github.com/xiaohan2012/stgym"><i class="fab fa-github"></i> stgym</a>, a system to accelerate GNN-based spatial transcriptomics research 🧬
         Details:
           - Developing GNN architectures to model spatial gene expression patterns
+          - Building a benchmark dataset for rigorous evaluation of spatial transcriptomics GNN methods
           - Implementing distributed training pipelines for large-scale experimentation 🧪
-        Badges: ['Graph neural nets', 'PyTorch', 'Bioinformatics', 'Distributed computing']
+        Badges: ['Graph neural nets', 'PyTorch', 'Bioinformatics', 'Benchmarking', 'Distributed computing']
   - Employer: Aalto University
     Place: Helsinki, Finland
     Positions:
       - Title: Postdoctoral Researcher
         Date: Nov, 2020 - Jan, 2022
-        Summary: Designing and engineering interpretable rule-based learning algorithms 🧩 🔍
+        Summary: Designing and engineering interpretable, transparent rule-based learning algorithms 🧩 🔍
         Details:
           - Developed interpretable rule set models with theoretical guarantees [<a class='paper__link' href='https://arxiv.org/abs/2210.01533'>ICDM 22' <i class='fas fa-link'></i></a>]
           - Created efficient model exploration algorithms, achieving 1000x speedup over Google OR-tools [<a class='paper__link' href='https://arxiv.org/pdf/2406.03059'>KDD 24' <i class='fas fa-link'></i></a>]
-        Badges: ['Interpretable ML', 'Performance engineering']  
+          - Studied Rashomon sets / model multiplicity to characterize the space of near-optimal predictors, illuminating internal model behavior beyond single black-box explanations
+        Badges: ['Interpretable ML', 'Trustworthy ML', 'Rashomon sets', 'Performance engineering']
   - Employer: Aalto University
     Place: Helsinki, Finland
     Positions:
       - Title: Doctoral Researcher
         Date: Sep, 2016 - Oct, 2020
+        Summary: AI safety / societal harm mitigation (pre-LLM era) — algorithmic approaches to misinformation, polarization, and fairness
         Details:
           - Designed graph-mining algorithms to model misinformation propagation processes on social networks [<a class='paper__link' href='https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.75'>SDM 18' <i class='fas fa-link'></i></a>, <a class='paper__link' href='https://arxiv.org/pdf/1809.05812'>ICDM 19' <i class='fas fa-link'></i></a>]
           - Created scalable algorithms for detecting polarized communities on social networks with millions of nodes [<a class='paper__link' href='https://arxiv.org/pdf/2001.09410'>WebConf 20' <i class='fas fa-link'></i></a>]
@@ -102,9 +108,9 @@ Research:
         Date: Oct, 2012 - Oct, 2014 
         Summary: Modeling antigen-antibody interaction with bio-informatics researchers.
         Details:
-          - Responsible for programming and running experiment
-          - Work published at <a class='paper__link' href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0122416'>PLoS One 25' <i class='fas fa-link'></i></a> 
-        Badges: ['Bioinformatics', "Machine learning"]
+          - Responsible for programming and running experiments, with heavy use of Torch for neural-network modeling
+          - Work published at <a class='paper__link' href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0122416'>PLoS One 25' <i class='fas fa-link'></i></a>
+        Badges: ['Bioinformatics', 'Machine learning', 'Torch']
 
 Teaching:
   - Course: "Algorithmic Methods for Data Mining"
@@ -124,7 +130,7 @@ Education:
       Title: Data science for social good
       URL: https://aaltodoc.aalto.fi/server/api/core/bitstreams/dd24fffc-07ad-4cfe-96e5-d91cc55fd47f/content
       Advisor: Prof. Aristides Gionis
-    Focus: combinatorial optimization, approximation algorithm, social network analysis
+    Focus: trustworthy and socially responsible algorithms — misinformation, polarization, fairness; combinatorial optimization
     Details: Work published at <a class='paper__link' href='https://arxiv.org/pdf/2001.09410'>WWW 20'<i class='fas fa-link'></i></a>, <a class='paper__link' href='https://epubs.siam.org/doi/pdf/10.1137/1.9781611975321.75'>SDM 18'<i class='fas fa-link'></i></a>, <a class='paper__link' href='https://arxiv.org/pdf/1809.05812'>ICDM 19'<i class='fas fa-link'></i></a>, <a class='paper__link' href='https://arxiv.org/abs/1904.08249'>ML 20'<i class='fas fa-link'></i></a>
   - Course: M.Sc. in Computer Science
     Place: Helsinki University, Finland
@@ -155,13 +161,22 @@ References:
         Info: eric.malmi@gmail.com
       - Icon: fas fa-phone
         Info: +358 44 0478010
-  - Name: Daniel Haimovich
-    Relation: Supervisor (Facebook)
+  # - Name: Daniel Haimovich
+  #   Relation: Supervisor (Facebook)
+  #   Contacts:
+  #     - Icon: fas fa-university
+  #       Info: "Research Manager, Meta"
+  #     - Icon: fas fa-envelope
+  #       Info: danielha@meta.com
+  - Name: Dmitri Carpov
+    Relation: Peer (Unity)
     Contacts:
       - Icon: fas fa-university
-        Info: "Research Manager, Meta"
+        Info: "Senior Research Developer, <br/> LawZero"
       - Icon: fas fa-envelope
-        Info: danielha@meta.com
+        Info: dmitri.carpov@gmail.com
+      - Icon: fas fa-phone
+        Info: +1 438 882-9526
   - Name: Stalone Freitas
     Relation: Peer (Unity)
     Contacts:
@@ -178,6 +193,7 @@ Skills:
       - Cython
       - C/C++
       - TypeScript
+      - Java
   - Family: System Programming
     Items:
       - SIMD
@@ -189,6 +205,12 @@ Skills:
       - Torch Geometric
       - TensorFlow
       - XGBoost
+  - Family: AI Safety & Interpretability
+    Items:
+      - TransformerLens
+      - nnsight
+      - SHAP
+      - Captum
   - Family: Distributed Computing
     Items:
       - Ray
@@ -217,10 +239,10 @@ Languages:
 Software:
   - Name: stgym
     Link: https://github.com/xiaohan2012/stgym
-    Description: ML system for rapid GNN experimentation on spatial transcriptomics
+    Description: "ML system for rapid GNN experimentation on spatial transcriptomics <a href='https://pytorch.org' target='_blank'><i class='devicon-pytorch-original colored' title='PyTorch'></i></a> <a href='https://pytorch-geometric.readthedocs.io/en/latest/' target='_blank'><img src='/img/pyg.svg' style='height:1em;vertical-align:-0.15em' title='PyTorch Geometric' alt='PyG'></a> <a href='https://www.ray.io' target='_blank'><img src='https://cdn.simpleicons.org/ray' style='height:1em;vertical-align:-0.15em' title='Ray' alt='Ray'></a>"
   - Name: ers
     Link: https://github.com/xiaohan2012/efficient-rashomon-rule-set
-    Description: efficient Rashomon set exploration algorithms
+    Description: "efficient Rashomon set exploration algorithms <a href='https://numba.pydata.org' target='_blank'><img src='/img/numba.svg' style='height:1em;vertical-align:-0.15em' title='Numba' alt='Numba'></a> <a href='https://www.ray.io' target='_blank'><img src='https://cdn.simpleicons.org/ray' style='height:1em;vertical-align:-0.15em' title='Ray' alt='Ray'></a>"
   - Name: corset
     Link: https://github.com/DiverseMultiLabelClassificationRules/CORSET
     Description: interpretable multi-label rule-set learning algorithms
