@@ -30,9 +30,9 @@ Experience:
         Date: May, 2025 - Present
         Summary: Building <a class="paper__link" href="https://www.cambri.io/what-is-launch-ai">LaunchAI™</a> and LaunchAI Instant™, concept validation tools to reduce process waste
         Details:
-          - Developing interpretable ML models (using SHAP and Integrated Gradient) which provide actionable insights 💎 to our customers
-          - "Leading the development of LaunchAI Instant: transformer fine-tuning for supervised NLP tasks, data set creation and quality assurance, serving logic and model deployment"
-          - Building agentic tools for software development, data analytics, and internal workflows
+          - Developing interpretable ML models (using SHAP and Integrated Gradient) which provide actionable insights 💎 to our customers (modeling + applied research + software engineering)
+          - "Leading the development of LaunchAI Instant: transformer fine-tuning for supervised NLP tasks, data set creation and quality assurance, serving logic and model deployment (applied research + software engineering + project management)"
+          - Building agentic tools for software development, data analytics, and internal workflows (workflow optimization + software engineering)
         Badges: ['Explainable AI', "Transformer fine-tuning", 'Statistical modeling', 'LLM agents', 'MLOps']
   - Employer: The Upright Project
     Place: Helsinki, Finland
@@ -41,8 +41,8 @@ Experience:
         Date: May, 2024 - Apr, 2025
         Summary: Developing ML solutions for corporate-level impact quantification 🌎 🌱 at <a class="paper__link" href="https://www.uprightproject.com/platform">Upright Platform</a>
         Details:
-          - Redesigned algorithms for enhanced interpretability 🔍 with production deployment
-          - Built LLM agents for automated sustainability metrics extraction from company reports
+          - Redesigned algorithms for enhanced interpretability 🔍 with production deployment (applied research + software engineering)
+          - Built LLM agents for automated sustainability metrics extraction from company reports (applied research + software engineering)
         Badges: ['Bayesian modeling', 'Interpretability', 'LLM agents', 'Sustainability']
   - Employer: Unity Technologies
     Place: Helsinki, Finland
@@ -51,25 +51,36 @@ Experience:
         Date: Feb, 2022 - Apr, 2024
         Summary: Building scalable ML systems for advertising optimization and data infrastructure
         Details:
-          - Built privacy-constrained ML models 🔐 for conversion prediction using TensorFlow and multi-GPU training
-          - Redesigned terabyte-scale data pipeline for performance optimization (20% speed up and 1.7 million cost reduction per year)
-          - Implemented ML explainability tools using SHAP
+          - Built privacy-constrained ML models 🔐 for conversion prediction using TensorFlow and multi-GPU training (applied research project)
+          - Redesigned terabyte-scale data pipeline for performance optimization (20% speed up and 1.7 million cost reduction per year) (software engineering + performance engineering)
+          - Implemented ML explainability tools using SHAP (applied research)
         Badges: ['Deep learning', 'Tensorflow', 'PySpark', 'Pipeline optimization', 'Multi-GPU training', 'MLOps', 'Explainable AI', "Applied research"]
   - Employer: Facebook
     Place: London, UK
     Positions:
       - Title: Core Data Science Intern
         Date: Jun - Aug, 2018
-        Summary: Developing algorithmic prototype for inauthentic behaviors detection on Facebook graph
-        Badges: ['Social network analysis', 'Anomaly detection', 'Online integrity']
+        Summary: Developing algorithmic prototype for inauthentic behaviors detection on Facebook graph (applied research)
+        Badges: ['Social network analysis', 'Anomaly detection', 'Online integrity', 'Applied research']
 
 Research:
+  - Employer: ""
+    Place: Helsinki
+    Positions:
+      - Title: Independent researcher (AI safety)
+        Date: Jan, 2026 - Present
+        Summary: Up-skill myself on AI safety, interpretability, and frontier models for structured data
+        Details:
+          - 'Reading about foundation models for structured data, e.g., tabular and multi-relational data'
+          - "Mechanistic interpertabiltiy: following the curriculum in [Arena 3.0](https://github.com/callummcdougall/ARENA_3.0)"
+          - "AI safety-related training: finished the [Bluedot Technical AI safety course](https://bluedot.org/certification?id=rec9cWNrZcUCINpeH)"
+          - "Participation in safety-related context e.g., [BlueDot Impact Safety Puzzle #1](https://docs.google.com/document/d/1sfsnmCCNnyvVPA_jz-5Ai7pIqHKacV-gdr1cdQn9G9c/edit?tab=t.0#heading=h.cnwrphshydn9)"
   - Employer: Fudan University
     Place: Remote
     Positions:
       - Title: Researcher (part-time)
         Date: Oct, 2025 - Present
-        Summary: Developing <a class="paper__link" href="https://github.com/xiaohan2012/stgym"><i class="fab fa-github"></i> stgym</a>, a system to accelerate GNN-based spatial transcriptomics research 🧬
+        Summary: Developing <a class="paper__link" href="https://github.com/xiaohan2012/stgym"><i class="fab fa-github"></i> stgym</a>, an OSS system to accelerate GNN-based spatial transcriptomics research 🧬
         Details:
           - Developing GNN architectures to model spatial gene expression patterns
           - Implementing distributed training pipelines for large-scale experimentation 🧪
