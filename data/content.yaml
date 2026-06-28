@@ -28,11 +28,12 @@ Experience:
     Positions:
       - Title: Senior Data Scientist
         Date: May, 2025 - Present
-        Summary: Building <a class="paper__link" href="https://www.cambri.io/what-is-launch-ai">LaunchAI™</a>, a concept validation platform to reduce process waste
+        Summary: Building <a class="paper__link" href="https://www.cambri.io/what-is-launch-ai">LaunchAI™</a> and LaunchAI Instant™, concept validation tools to reduce process waste
         Details:
-          - Developing interpretable ML models which provide actionable insights 💎 to our customers
-          - Automating data preparation and model development using LLM 🤖
-        Badges: ['Interpretability', 'Statistical modeling', 'LLM agents', 'MLOps']
+          - Developing interpretable ML models (using SHAP and Integrated Gradient) which provide actionable insights 💎 to our customers
+          - "Leading the development of LaunchAI Instant: transformer fine-tuning for supervised NLP tasks, data set creation and quality assurance, serving logic and model deployment"
+          - Building agentic tools for software development, data analytics, and internal workflows
+        Badges: ['Explainable AI', "Transformer fine-tuning", 'Statistical modeling', 'LLM agents', 'MLOps']
   - Employer: The Upright Project
     Place: Helsinki, Finland
     Positions:
@@ -51,9 +52,9 @@ Experience:
         Summary: Building scalable ML systems for advertising optimization and data infrastructure
         Details:
           - Built privacy-constrained ML models 🔐 for conversion prediction using TensorFlow and multi-GPU training
-          - Redesigned terabyte-scale data pipeline for performance optimization
+          - Redesigned terabyte-scale data pipeline for performance optimization (20% speed up and 1.7 million cost reduction per year)
           - Implemented ML explainability tools using SHAP
-        Badges: ['Neural nets', 'Pipeline optimization', 'Multi-GPU training', 'MLOps', 'ML explainability']
+        Badges: ['Deep learning', 'Tensorflow', 'PySpark', 'Pipeline optimization', 'Multi-GPU training', 'MLOps', 'Explainable AI', "Applied research"]
   - Employer: Facebook
     Place: London, UK
     Positions:
@@ -72,7 +73,7 @@ Research:
         Details:
           - Developing GNN architectures to model spatial gene expression patterns
           - Implementing distributed training pipelines for large-scale experimentation 🧪
-        Badges: ['Graph neural nets', 'PyTorch', 'Bioinformatics', 'Distributed computing']
+        Badges: ['Graph neural nets', 'PyTorch', 'Bioinformatics', 'Distributed computing', 'Ray']
   - Employer: Aalto University
     Place: Helsinki, Finland
     Positions:
